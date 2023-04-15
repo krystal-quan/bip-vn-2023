@@ -136,3 +136,9 @@ class Parameter:
     
     def setQ_(self, q__):
         self.q_ = q__
+
+        
+point = []
+kconstant = []
+sellPrice = []
+playerValue = []
