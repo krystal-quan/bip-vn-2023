@@ -27,6 +27,12 @@ class Player:
         self._selected_by_percent = selected_by_percent
         self._value = value
 
+        
+        self.point = []
+        self.kconstant = []
+        self.sellPrice = []
+        self.playerValue = []
+
     def get_first_name(self):
         return self._first_name
 
