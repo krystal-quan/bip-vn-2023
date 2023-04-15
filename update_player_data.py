@@ -22,7 +22,7 @@ def set_player_list (player_list = None):
                                            row[4], row[5], row[6], row[7], 
                                            row[8], row[9], row[10], row[11], 
                                            row[12], row[13], row[14], row[15], 
-                                           row[16], row[17])
+                                           row[16], row[17], row[18])
     # Trả lại giá trị List để sử dụng.
     return player_list
 
@@ -30,4 +30,5 @@ def set_player_list (player_list = None):
 if __name__ == "__main__":
     player_list_con = [None] * 683
     player_list = set_player_list(player_list_con)
-    player_list[0].print_all()
+    for i in range(25):
+        player_list[i].print_all()
