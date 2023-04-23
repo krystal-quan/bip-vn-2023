@@ -1,24 +1,6 @@
 import csv
 import random
-
-class Player:
-    num_of_players = 0
-    def __init__(self, first_name, second_name, value):
-        self.first_name = first_name
-        self.second_name = second_name
-        self.value = value
-        Player.num_of_players += 1
-        self.id = Player.num_of_players
-    
-    def __str__(self):
-        return f"Player {self.id}: {self.first_name} {self.second_name} - Value: {self.value}"
-    
-    def getValue(self):
-        return self.value
-    
-    def getName(self):
-        return f"{self.first_name} {self.second_name}"
-    
+import player as Player
 class ChosenPlayer:
     def __init__(self, id = [], *args):
         self.chosenPlayerList = id
@@ -29,30 +11,6 @@ class ChosenPlayer:
     def __str__(self):
         return f"Players chosen:\n{printPlayerList()}"
     
-class Point:
-    totalPoints = 0
-    pointList = []
-    
-    def __init__(self, points):
-        self.points = points
-        Point.totalPoints += points
-        Point.pointList.append(points)
-        
-    def __str__(self):
-        return f"Total points: {Point.totalPoints}\nPoints per game: {Point.getPointsPerGame()}"
-        
-    def getPoints(self, gameWeek):
-        return f"GameWeek {gameWeek}: {Point.pointList[gameWeek - 1]}"
-    
-    def getTotalPoints(self):
-        return Point.totalPoints
-    
-    def getPointsPerGame(self):
-        for i in range(len(Point.pointList)):
-            return f"{Point.getPoints(i + 1)}"
-    
-    
-
 # Variables
 NUM_OF_PLAYERS = 15        
 playerList = []

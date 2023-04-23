@@ -1,5 +1,7 @@
 import pandas as pd
 import player
+import get_gw as gw
+import stored_old_data as st
 
 # Đọc file cleaned_player.csv
 cleaned_player = pd.read_csv('cleaned_player.csv')
@@ -18,16 +20,21 @@ def set_player_list (player_list = None):
     # Duyệt thông tin theo hàng.
     for index, row in cleaned_player.iterrows():
         # Tạo mới player, nên hàm init mới phải đúng đầu vào (18 cái).
-        player_list[index] = player.Player(row[0], row[1], row[2], row[3], 
+        player_list[index] = player.Player(index + 1, row[0], row[1], row[2], row[3], 
                                            row[4], row[5], row[6], row[7], 
                                            row[8], row[9], row[10], row[11], 
                                            row[12], row[13], row[14], row[15], 
-                                           row[16], row[17])
+                                           row[16], row[17], row[18])
     # Trả lại giá trị List để sử dụng.
     return player_list
 
 # Test code.
 if __name__ == "__main__":
-    player_list_con = [None] * 683
-    player_list = set_player_list(player_list_con)
-    player_list[0].print_all()
+    player_list = set_player_list()
+    for i in range(25):
+        player_list[i].print_all()
+    gw.set_game_week('gws\gw1.csv', player_list, 1)
+    for i in range(25):
+        player_list[i].print_all()
+    st.print_players()
+    

@@ -4,12 +4,11 @@
 # từ bảng cleaned_player kia, không nên sửa đầu vào hàm init nếu không sẽ lỗi.
 
 class Player:
-    global total_player
-    total_player = 0
-    def __init__(self, first_name, second_name, goals_scored, assists, total_points, 
+    def __init__(self, id, first_name, second_name, goals_scored, assists, total_points, 
                  minutes, goals_conceded, creativity, influence, threat, bonus, bps, 
                  ict_index, clean_sheets, red_cards, yellow_cards, selected_by_percent, 
-                 value):
+                 value, position):
+        self._id = id
         self._first_name = first_name
         self._second_name = second_name
         self._goals_scored = goals_scored
@@ -28,7 +27,22 @@ class Player:
         self._yellow_cards = yellow_cards
         self._selected_by_percent = selected_by_percent
         self._value = value
-        self._id = 1
+        self._position = position
+
+    def get_id(self):
+        return self._id
+    
+    def set_id(self, id):
+        self._id = id
+
+    def get_position(self):
+        return self._position
+    
+    def set_position(self, position):
+        self._position = position
+
+    def get_full_name(self):
+        return str(self._first_name + "_" + self._second_name)
 
     def get_first_name(self):
         return self._first_name
@@ -139,14 +153,22 @@ class Player:
         self._value = value
 
     def print_all(self):
-        print(
-            f"{str(self._first_name)} {str(self._second_name)} {str(self._goals_scored)} {str(self._assists)} {str(self._total_points)} {str(self._minutes)} {str(self._goals_conceded)} {str(self._creativity)} {str(self._influence)} {str(self._threat)} {str(self._bonus)} {str(self._bps)} {str(self._ict_index)} {str(self._clean_sheets)} {str(self._red_cards)} {str(self._yellow_cards)} {str(self._selected_by_percent)} {str(self._value)}"
-        )
+        print (str(self._id) +  " " + str(self._first_name) + " " + str(self._second_name) + " " + str(self._position) + " " + str(self._goals_scored) + " " + str(self._assists) + " " + str(self._total_points) + " " + str(self._minutes) + " " + str(self._goals_conceded) + " " + str(self._creativity) + " " + str(self._influence) + " " + str(self._threat) + " " + str(self._bonus) + " " + str(self._bps) + " " + str(self._ict_index) + " " + str(self._clean_sheets) + " " + str(self._red_cards) + " " + str(self._yellow_cards) + " " + str(self._selected_by_percent) + " " + str(self._value))
         return 0
-    
-    def __str__(self):
-        return f"Player {self._id}: {self._first_name} {self._second_name} - Value: {self._value}"
-    
-    
 
-
+    def reset(self):
+        self._goals_scored = 0
+        self._assists = 0
+        self._total_points = 0
+        self._minutes = 0
+        self._goals_conceded = 0
+        self._creativity = 0.0
+        self._influence = 0.0
+        self._threat = 0
+        self._bonus = 0.0
+        self._bps = 0
+        self._ict_index = 0
+        self._clean_sheets = 0
+        self._red_cards = 0
+        self._yellow_cards = 0
+        self._selected_by_percent = 0
