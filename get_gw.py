@@ -1,5 +1,4 @@
 import compare
-import update_player_data
 import pandas as pd
 import stored_old_data as st
 
@@ -33,6 +32,7 @@ def set_game_week(file_name, player_list, week):
             player_list[pos].set_selected_by_percent(row['selected'])
             # player_list[pos].set_value(row['value'])
             # Vì đang xét giá trị không đổi nên không đổi value, muốn đổi thì tùy
+            counter += 1
         else:
             pos = compare.continuous_search(player_list, row['name'], 0, len(player_list))
             if (pos != -1):
@@ -51,6 +51,7 @@ def set_game_week(file_name, player_list, week):
                 player_list[pos].set_red_cards(row['red_cards'])
                 player_list[pos].set_yellow_cards(row['yellow_cards'])
                 player_list[pos].set_selected_by_percent(row['selected'])
+                counter += 1
             else:
                 print ('Failed to find')
     return counter
@@ -59,7 +60,3 @@ def stored_player(player_list, week):
     for i in range(len(player_list)):
         st.set_players(player_list[i], i, week - 1)
         player_list[i].reset()
-
-if __name__ == '__main__':
-    player_list = update_player_data.set_player_list()
-    print(set_game_week("gw1.csv", player_list))
