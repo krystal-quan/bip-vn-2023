@@ -1,10 +1,5 @@
 import pandas as pd
 import player
-import get_gw as gw
-import stored_old_data as st
-
-# Đọc file cleaned_player.csv
-cleaned_player = pd.read_csv('cleaned_player.csv')
 
 # Hàm được tạo để có thể gọi từ file .py khác như main.py chẳng hạn.
 # Đầu vào là 1 player_list tạo sẵn hoặc không có gì cũng được.
@@ -12,6 +7,8 @@ cleaned_player = pd.read_csv('cleaned_player.csv')
 # nếu không sẽ lỗi do đoạn code dưới chỉ gán giá trị chứ không tạo mới.
 # Do vậy t nghĩ đoạn code này nên được chạy đầu tiên trước khi tạo variable, parameter
 def set_player_list (player_list = None):
+    # Đọc file cleaned_player.csv
+    cleaned_player = pd.read_csv('cleaned_player.csv')
     # Nếu đầu vào không có gì thì player_list sẽ được tạo.
     if (player_list is None):
         # Ở đây tự khởi tạo số lượng object trong list tương đương với số cầu thủ.
@@ -27,14 +24,4 @@ def set_player_list (player_list = None):
                                            row[16], row[17], row[18])
     # Trả lại giá trị List để sử dụng.
     return player_list
-
-# Test code.
-if __name__ == "__main__":
-    player_list = set_player_list()
-    for i in range(25):
-        player_list[i].print_all()
-    gw.set_game_week('gws\gw1.csv', player_list, 1)
-    for i in range(25):
-        player_list[i].print_all()
-    st.print_players()
     
