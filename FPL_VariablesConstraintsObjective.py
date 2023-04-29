@@ -89,6 +89,9 @@ m.add_constraint((m.sum(y_pt[i, j] for i in PD)>= ED) )#for j in T)
 m.add_constraint((m.sum(y_pt[i, j] for i in PM)== EM) )#for j in T)
 m.add_constraint((m.sum(y_pt[i, j] for i in PF)== EF) )#for j in T)
 
+  #4.23
+m.add_constraints(y_pt[i,j] <= x_pt[i,j] for i in P)
+
   #4.27-> 4.29 #triple captain is ignored
 m.add_constraint((m.sum(f_pt[i, j] for i in P)== 1))# for j in T)
 m.add_constraint((m.sum(h_pt[i, j] for i in P)== 1) )#for j in T)
@@ -133,7 +136,9 @@ m.add_constraint(A * (Qp - q_t[j+1]) >= al_t[j])
 m.add_constraint(q_t[j+1] >= Q)
 m.add_constraint(q_t[j+1] - Qp <= 0)
 
-
+# Add constraints for testing : Obligatory transfer
+m.add_constraint(m.sum(e_pt[i,j] for i in P ) == 1)
+m.add_constraint(m.sum(u_pt[i,j] for i in P) == 1)
 # Objective function
 # points for  'normal' players (except cap, vice-cap)
 def calculateSumPoint (arr2D, arr, matrix, week) :
