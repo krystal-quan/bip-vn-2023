@@ -1,62 +1,36 @@
 import csv
 import random
-import player as Player
-class ChosenPlayer:
-    def __init__(self, id = [], *args):
-        self.chosenPlayerList = id
-    
-    def printPlayerList(self):
-        for player in self.chosenPlayerList:
-            print(playerList[player - 1])
-    def __str__(self):
-        return f"Players chosen:\n{printPlayerList()}"
-    
-# Variables
-NUM_OF_PLAYERS = 15        
-playerList = []
-chosenPlayerList = []
-currentPlayer = []
-gameWeekCount = 0
+import player as plr
+import parameter as prm
+import chosen_team as cht
 
-
-def getDataFromCSV():
-    with open('cleaned_player.csv','r', encoding="Latin1") as file:
-        csvFile = csv.reader(file)
-        for lines in csvFile:
-            playerList.append(Player(lines[0], lines[1], lines[17]))
             
 def printPlayerList():
-    for player in playerList:
+    for player in prm.playerList:
         print(player)
 
 def choosePlayerEachWeek():
-    global gameWeekCount
-    while (gameWeekCount < 38):
-        if (gameWeekCount == 0):
+    while (prm.gameWeek < 38):
+        if (prm.gameWeek == 0):
             while (True):
-                for _ in range(NUM_OF_PLAYERS):
+                for _ in range(prm.NUM_OF_PLAYERS):
                     while (True):
-                        tempId = random.randint(1, Player.num_of_players)
-                        if (tempId not in currentPlayer):
-                            currentPlayer.append(tempId)
+                        tempId = random.randint(1, prm.TOTAL_PLAYERS)
+                        if (tempId not in prm.gameWeekRoster):
+                            prm.gameWeekRoster.append(tempId)
                             break
-                if (True):
-                    #TODO: Check if total value of 15 player is less than 100
-                    chosenPlayerList.append(ChosenPlayer(currentPlayer))
-                    break
+                # if (True):
+                #     #TODO: Check if total value of 15 player is less than 100
+                #     prm.gameWeekRoster.append(cht.Chosen_Team(prm.gameWeekRoster))
+                break
         else:
-            eliminatedPlayer = random.randint(0, NUM_OF_PLAYERS - 1)
-            currentPlayer.pop(eliminatedPlayer)
+            eliminatedPlayer = random.randint(0, prm.NUM_OF_PLAYERS - 1)
+            prm.gameWeekRoster.pop(eliminatedPlayer)
             while (True):
-                tempId = random.randint(1, Player.num_of_players)
-                if (tempId not in currentPlayer):
-                    currentPlayer.append(tempId)
+                tempId = random.randint(1, prm.TOTAL_PLAYERS)
+                if (tempId not in prm.gameWeekRoster):
+                    prm.gameWeekRoster.append(tempId)
                     break
-        chosenPlayerList.append(ChosenPlayer(currentPlayer))
-        gameWeekCount += 1
-
-getDataFromCSV()
-choosePlayerEachWeek()
-for i in range(len(chosenPlayerList)):
-    print(f"GameWeek {str(i)}:")
-    chosenPlayerList[i].printPlayerList()
+        temp = random.randint(1, prm.NUM_OF_PLAYERS)
+        prm.chosenPlayerList.append(cht.Chosen_Team(temp, (temp + 7) % prm.NUM_OF_PLAYERS + 1, prm.gameWeekRoster))
+        prm.gameWeek += 1

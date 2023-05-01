@@ -1,8 +1,11 @@
 import update_player_data as upd
 
 #Constraints, which are unchanged throughout the optimization process.
+OUTPUT_FILES = 0
 E_CONSTANT = 1e-5
 K_CONSTANT = [] #Constants such that l << ✏ for all l 2 L, and 1 > 2 >...> L.
+TOTAL_PLAYERS = 0 #Total number of players in the dataset.
+NUM_OF_PLAYERS = 15 #Number of players in the squad.
 GOALKEEPER_SELECTED = 2 #Number of goalkeepers required in the selected squad.
 DEFENDER_SELECTED = 5 #Number of defenders required in the selected squad.
 MIDFIELDER_SELECTED = 5 #Number of midfielders required in the selected squad.
@@ -28,9 +31,11 @@ point = []
 # sellPrice = [] #Sell price of player p in a gameweek t.
 # playerValue = [] #Value of player p in a gameweek t.
 deductedPoint = [] #Number of points deducted for each penalized transfer.
-player = upd.set_player_list()
+playerList = None #List of players in the dataset.
+chosenPlayerList = [] #List of players chosen in the selected squad.
+gameWeekRoster = [] #List of players chosen in the starting line-up.
+gameWeek = 0 #Current gameWeek.
 
-# Test Code
-for _ in player:
-    print(_)
+
+
 
