@@ -26,7 +26,7 @@ FREE_TOKEN = 1 #Number of free transfers given every gameweek.
 MAX_TOKEN = 2 #Maximum number of free transfers possible to accumulate over gameweeks.
 
 #Variables, which are changed throughout the optimization process.
-point = []
+point = 0
 # May delete this variable.
 # sellPrice = [] #Sell price of player p in a gameweek t.
 # playerValue = [] #Value of player p in a gameweek t.
@@ -35,7 +35,7 @@ playerList = None #List of players in the dataset.
 chosenPlayerList = [] #List of players chosen in the selected squad.
 gameWeekRoster = [] #List of players chosen in the starting line-up.
 gameWeek = 0 #Current gameWeek.
-
+transferLeft = 0 #Numbers of tokens left
 
 
 

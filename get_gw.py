@@ -58,5 +58,5 @@ def set_game_week(file_name, player_list, week):
 
 def stored_player(player_list, week):
     for i in range(len(player_list)):
-        st.set_players(player_list[i], i, week - 1)
+        st.set_player_data(player_list[i], i, week - 1)
         player_list[i].reset()

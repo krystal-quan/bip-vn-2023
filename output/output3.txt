@@ -1,0 +1,39 @@
+Game Week: 0
+Players chosen:
+	40 - Alexis Sánchez - MID (CAPTAIN)
+	80 - Bamidele Alli - MID (VICE_CAPTAIN)
+	123 - Charlie Daniels - DEF
+	130 - Christian Eriksen - MID
+	225 - Fernando Llorente - FWD
+	240 - Gary Cahill - DEF
+	274 - Heung-Min Son - MID
+	277 - Hugo Lloris - GK
+	332 - Joel Robles - GK
+	371 - Joshua King - MID
+	441 - Marcos Alonso - DEF
+	548 - Peter Crouch - FWD
+	583 - Ryan Bertrand - DEF
+	595 - Sam Vokes - FWD
+	602 - Seamus Coleman - DEF
+
+------------------------------------------
+Game Week: 1
+Players chosen:
+	40 - Alexis Sánchez - MID
+	123 - Charlie Daniels - DEF
+	130 - Christian Eriksen - MID
+	225 - Fernando Llorente - FWD (CAPTAIN)
+	240 - Gary Cahill - DEF
+	274 - Heung-Min Son - MID
+	277 - Hugo Lloris - GK
+	332 - Joel Robles - GK
+	371 - Joshua King - MID
+	441 - Marcos Alonso - DEF
+	548 - Peter Crouch - FWD
+	554 - Philippe Coutinho - MID (VICE_CAPTAIN)
+	583 - Ryan Bertrand - DEF
+	595 - Sam Vokes - FWD
+	602 - Seamus Coleman - DEF
+
+Players out:	80 - Bamidele Alli - MID
+Players in:

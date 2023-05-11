@@ -159,18 +159,18 @@ class Player:
         return f"{self._id} - {self._first_name} {self._second_name} - {self._position}"
 
     def reset(self):
-        self._goals_scored = 0
-        self._assists = 0
-        self._total_points = 0
-        self._minutes = 0
-        self._goals_conceded = 0
+        self._goals_scored = -1
+        self._assists = -1
+        self._total_points = -1
+        self._minutes = -1
+        self._goals_conceded = -1
         self._creativity = 0.0
         self._influence = 0.0
-        self._threat = 0
+        self._threat = -1
         self._bonus = 0.0
-        self._bps = 0
-        self._ict_index = 0
-        self._clean_sheets = 0
-        self._red_cards = 0
-        self._yellow_cards = 0
-        self._selected_by_percent = 0
+        self._bps = -1
+        self._ict_index = -1
+        self._clean_sheets = -1
+        self._red_cards = -1
+        self._yellow_cards = -1
+        self._selected_by_percent = -1

@@ -1,0 +1,1368 @@
+Game Week: 0
+Players chosen:
+	40 - Alexis Sánchez - MID
+	80 - Bamidele Alli - MID
+	123 - Charlie Daniels - DEF
+	130 - Christian Eriksen - MID
+	225 - Fernando Llorente - FWD
+	240 - Gary Cahill - DEF
+	274 - Heung-Min Son - MID
+	277 - Hugo Lloris - GK
+	332 - Joel Robles - GK
+	371 - Joshua King - MID
+	441 - Marcos Alonso - DEF
+	548 - Peter Crouch - FWD
+	583 - Ryan Bertrand - DEF
+	595 - Sam Vokes - FWD
+	602 - Seamus Coleman - DEF
+
+
+Main Roster:
+	40 - Alexis Sánchez - MID (CAPTAIN)
+	80 - Bamidele Alli - MID (VICE_CAPTAIN)
+	225 - Fernando Llorente - FWD
+	240 - Gary Cahill - DEF
+	274 - Heung-Min Son - MID
+	277 - Hugo Lloris - GK
+	371 - Joshua King - MID
+	441 - Marcos Alonso - DEF
+	548 - Peter Crouch - FWD
+	583 - Ryan Bertrand - DEF
+	595 - Sam Vokes - FWD
+
+------------------------------------------
+Game Week: 1
+Players chosen:
+	40 - Alexis Sánchez - MID
+	123 - Charlie Daniels - DEF
+	130 - Christian Eriksen - MID
+	225 - Fernando Llorente - FWD
+	240 - Gary Cahill - DEF
+	274 - Heung-Min Son - MID
+	277 - Hugo Lloris - GK
+	332 - Joel Robles - GK
+	371 - Joshua King - MID
+	441 - Marcos Alonso - DEF
+	548 - Peter Crouch - FWD
+	554 - Philippe Coutinho - MID
+	583 - Ryan Bertrand - DEF
+	595 - Sam Vokes - FWD
+	602 - Seamus Coleman - DEF
+
+
+Main Roster:
+	40 - Alexis Sánchez - MID
+	123 - Charlie Daniels - DEF
+	130 - Christian Eriksen - MID
+	225 - Fernando Llorente - FWD (CAPTAIN)
+	274 - Heung-Min Son - MID
+	277 - Hugo Lloris - GK
+	371 - Joshua King - MID
+	441 - Marcos Alonso - DEF
+	554 - Philippe Coutinho - MID (VICE_CAPTAIN)
+	583 - Ryan Bertrand - DEF
+	602 - Seamus Coleman - DEF
+
+Players out:Players in:
+Transfer left: 2
+Total point: 19
+------------------------------------------
+Game Week: 2
+Players chosen:
+	40 - Alexis Sánchez - MID
+	123 - Charlie Daniels - DEF
+	130 - Christian Eriksen - MID
+	148 - Curtis Davies - DEF
+	225 - Fernando Llorente - FWD
+	240 - Gary Cahill - DEF
+	274 - Heung-Min Son - MID
+	277 - Hugo Lloris - GK
+	332 - Joel Robles - GK
+	371 - Joshua King - MID
+	548 - Peter Crouch - FWD
+	554 - Philippe Coutinho - MID
+	583 - Ryan Bertrand - DEF
+	595 - Sam Vokes - FWD
+	602 - Seamus Coleman - DEF
+
+
+Main Roster:
+	123 - Charlie Daniels - DEF
+	130 - Christian Eriksen - MID
+	148 - Curtis Davies - DEF (VICE_CAPTAIN)
+	225 - Fernando Llorente - FWD
+	277 - Hugo Lloris - GK
+	371 - Joshua King - MID
+	548 - Peter Crouch - FWD
+	554 - Philippe Coutinho - MID
+	583 - Ryan Bertrand - DEF
+	595 - Sam Vokes - FWD (CAPTAIN)
+	602 - Seamus Coleman - DEF
+
+Players out:Players in:
+Transfer left: 3
+Total point: 35
+------------------------------------------
+Game Week: 3
+Players chosen:
+	40 - Alexis Sánchez - MID
+	130 - Christian Eriksen - MID
+	148 - Curtis Davies - DEF
+	225 - Fernando Llorente - FWD
+	240 - Gary Cahill - DEF
+	277 - Hugo Lloris - GK
+	332 - Joel Robles - GK
+	371 - Joshua King - MID
+	404 - Leighton Baines - DEF
+	548 - Peter Crouch - FWD
+	554 - Philippe Coutinho - MID
+	557 - Raheem Sterling - MID
+	583 - Ryan Bertrand - DEF
+	595 - Sam Vokes - FWD
+	602 - Seamus Coleman - DEF
+
+
+Main Roster:
+	40 - Alexis Sánchez - MID (CAPTAIN)
+	148 - Curtis Davies - DEF
+	225 - Fernando Llorente - FWD
+	240 - Gary Cahill - DEF
+	277 - Hugo Lloris - GK
+	371 - Joshua King - MID
+	548 - Peter Crouch - FWD
+	554 - Philippe Coutinho - MID
+	557 - Raheem Sterling - MID (VICE_CAPTAIN)
+	583 - Ryan Bertrand - DEF
+	602 - Seamus Coleman - DEF
+
+Players out:Players in:
+Transfer left: 4
+Total point: 60
+------------------------------------------
+Game Week: 4
+Players chosen:
+	130 - Christian Eriksen - MID
+	148 - Curtis Davies - DEF
+	225 - Fernando Llorente - FWD
+	240 - Gary Cahill - DEF
+	274 - Heung-Min Son - MID
+	277 - Hugo Lloris - GK
+	332 - Joel Robles - GK
+	371 - Joshua King - MID
+	404 - Leighton Baines - DEF
+	554 - Philippe Coutinho - MID
+	557 - Raheem Sterling - MID
+	576 - Romelu Lukaku - FWD
+	583 - Ryan Bertrand - DEF
+	595 - Sam Vokes - FWD
+	602 - Seamus Coleman - DEF
+
+
+Main Roster:
+	130 - Christian Eriksen - MID
+	148 - Curtis Davies - DEF
+	225 - Fernando Llorente - FWD
+	240 - Gary Cahill - DEF
+	274 - Heung-Min Son - MID (CAPTAIN)
+	277 - Hugo Lloris - GK
+	557 - Raheem Sterling - MID
+	576 - Romelu Lukaku - FWD (VICE_CAPTAIN)
+	583 - Ryan Bertrand - DEF
+	595 - Sam Vokes - FWD
+	602 - Seamus Coleman - DEF
+
+Players out:Players in:
+Transfer left: 5
+Total point: 84
+------------------------------------------
+Game Week: 5
+Players chosen:
+	40 - Alexis Sánchez - MID
+	148 - Curtis Davies - DEF
+	225 - Fernando Llorente - FWD
+	274 - Heung-Min Son - MID
+	277 - Hugo Lloris - GK
+	332 - Joel Robles - GK
+	376 - Juan Zuñiga - DEF
+	404 - Leighton Baines - DEF
+	504 - Nacer Chadli - MID
+	554 - Philippe Coutinho - MID
+	557 - Raheem Sterling - MID
+	576 - Romelu Lukaku - FWD
+	583 - Ryan Bertrand - DEF
+	595 - Sam Vokes - FWD
+	602 - Seamus Coleman - DEF
+
+
+Main Roster:
+	40 - Alexis Sánchez - MID (VICE_CAPTAIN)
+	225 - Fernando Llorente - FWD
+	274 - Heung-Min Son - MID
+	277 - Hugo Lloris - GK
+	404 - Leighton Baines - DEF
+	504 - Nacer Chadli - MID (CAPTAIN)
+	554 - Philippe Coutinho - MID
+	557 - Raheem Sterling - MID
+	576 - Romelu Lukaku - FWD
+	583 - Ryan Bertrand - DEF
+	602 - Seamus Coleman - DEF
+
+Players out:Players in:
+Transfer left: 6
+Total point: 142
+------------------------------------------
+Game Week: 6
+Players chosen:
+	12 - Adam Lallana - MID
+	40 - Alexis Sánchez - MID
+	225 - Fernando Llorente - FWD
+	274 - Heung-Min Son - MID
+	277 - Hugo Lloris - GK
+	321 - Jermain Defoe - FWD
+	332 - Joel Robles - GK
+	376 - Juan Zuñiga - DEF
+	404 - Leighton Baines - DEF
+	480 - Michael Keane - DEF
+	554 - Philippe Coutinho - MID
+	557 - Raheem Sterling - MID
+	583 - Ryan Bertrand - DEF
+	595 - Sam Vokes - FWD
+	602 - Seamus Coleman - DEF
+
+
+Main Roster:
+	12 - Adam Lallana - MID (CAPTAIN)
+	225 - Fernando Llorente - FWD
+	274 - Heung-Min Son - MID
+	332 - Joel Robles - GK
+	376 - Juan Zuñiga - DEF
+	404 - Leighton Baines - DEF
+	554 - Philippe Coutinho - MID (VICE_CAPTAIN)
+	557 - Raheem Sterling - MID
+	583 - Ryan Bertrand - DEF
+	595 - Sam Vokes - FWD
+	602 - Seamus Coleman - DEF
+
+Players out:Players in:
+Transfer left: 7
+Total point: 219
+------------------------------------------
+Game Week: 7
+Players chosen:
+	40 - Alexis Sánchez - MID
+	225 - Fernando Llorente - FWD
+	274 - Heung-Min Son - MID
+	277 - Hugo Lloris - GK
+	321 - Jermain Defoe - FWD
+	332 - Joel Robles - GK
+	400 - Laurent Koscielny - DEF
+	480 - Michael Keane - DEF
+	539 - Patrick van Aanholt - DEF
+	554 - Philippe Coutinho - MID
+	574 - Roberto Firmino - MID
+	583 - Ryan Bertrand - DEF
+	595 - Sam Vokes - FWD
+	602 - Seamus Coleman - DEF
+	673 - Willian Borges Da Silva - MID
+
+
+Main Roster:
+	40 - Alexis Sánchez - MID
+	274 - Heung-Min Son - MID
+	277 - Hugo Lloris - GK
+	321 - Jermain Defoe - FWD
+	400 - Laurent Koscielny - DEF (CAPTAIN)
+	480 - Michael Keane - DEF
+	554 - Philippe Coutinho - MID
+	574 - Roberto Firmino - MID (VICE_CAPTAIN)
+	583 - Ryan Bertrand - DEF
+	595 - Sam Vokes - FWD
+	673 - Willian Borges Da Silva - MID
+
+Players out:Players in:
+Transfer left: 8
+Total point: 241
+------------------------------------------
+Game Week: 8
+Players chosen:
+	40 - Alexis Sánchez - MID
+	122 - Charlie Austin - FWD
+	277 - Hugo Lloris - GK
+	321 - Jermain Defoe - FWD
+	325 - Joe Allen - MID
+	332 - Joel Robles - GK
+	361 - José Holebas - DEF
+	381 - Junior Stanislas - MID
+	400 - Laurent Koscielny - DEF
+	480 - Michael Keane - DEF
+	539 - Patrick van Aanholt - DEF
+	554 - Philippe Coutinho - MID
+	574 - Roberto Firmino - MID
+	583 - Ryan Bertrand - DEF
+	595 - Sam Vokes - FWD
+
+
+Main Roster:
+	40 - Alexis Sánchez - MID
+	122 - Charlie Austin - FWD
+	321 - Jermain Defoe - FWD
+	325 - Joe Allen - MID (CAPTAIN)
+	332 - Joel Robles - GK
+	381 - Junior Stanislas - MID (VICE_CAPTAIN)
+	400 - Laurent Koscielny - DEF
+	480 - Michael Keane - DEF
+	539 - Patrick van Aanholt - DEF
+	554 - Philippe Coutinho - MID
+	595 - Sam Vokes - FWD
+
+Players out:Players in:
+Transfer left: 9
+Total point: 267
+------------------------------------------
+Game Week: 9
+Players chosen:
+	122 - Charlie Austin - FWD
+	240 - Gary Cahill - DEF
+	277 - Hugo Lloris - GK
+	321 - Jermain Defoe - FWD
+	332 - Joel Robles - GK
+	361 - José Holebas - DEF
+	400 - Laurent Koscielny - DEF
+	480 - Michael Keane - DEF
+	546 - Pedro Rodríguez Ledesma - MID
+	554 - Philippe Coutinho - MID
+	574 - Roberto Firmino - MID
+	587 - Sadio Mané - MID
+	595 - Sam Vokes - FWD
+	675 - Winston Reid - DEF
+	676 - Xherdan Shaqiri - MID
+
+
+Main Roster:
+	122 - Charlie Austin - FWD
+	240 - Gary Cahill - DEF (VICE_CAPTAIN)
+	277 - Hugo Lloris - GK
+	321 - Jermain Defoe - FWD
+	361 - José Holebas - DEF
+	400 - Laurent Koscielny - DEF
+	554 - Philippe Coutinho - MID
+	574 - Roberto Firmino - MID
+	595 - Sam Vokes - FWD
+	675 - Winston Reid - DEF
+	676 - Xherdan Shaqiri - MID (CAPTAIN)
+
+Players out:Players in:
+Transfer left: 10
+Total point: 307
+------------------------------------------
+Game Week: 10
+Players chosen:
+	182 - Dejan Lovren - DEF
+	240 - Gary Cahill - DEF
+	277 - Hugo Lloris - GK
+	281 - Ilkay Gündogan - MID
+	296 - James McArthur - MID
+	321 - Jermain Defoe - FWD
+	332 - Joel Robles - GK
+	361 - José Holebas - DEF
+	400 - Laurent Koscielny - DEF
+	480 - Michael Keane - DEF
+	546 - Pedro Rodríguez Ledesma - MID
+	554 - Philippe Coutinho - MID
+	574 - Roberto Firmino - MID
+	607 - Sergio Agüero - FWD
+	670 - Wilfried Bony - FWD
+
+
+Main Roster:
+	240 - Gary Cahill - DEF
+	277 - Hugo Lloris - GK
+	281 - Ilkay Gündogan - MID (CAPTAIN)
+	296 - James McArthur - MID
+	321 - Jermain Defoe - FWD
+	361 - José Holebas - DEF
+	400 - Laurent Koscielny - DEF
+	546 - Pedro Rodríguez Ledesma - MID
+	554 - Philippe Coutinho - MID
+	574 - Roberto Firmino - MID
+	607 - Sergio Agüero - FWD (VICE_CAPTAIN)
+
+Players out:Players in:
+Transfer left: 11
+Total point: 350
+------------------------------------------
+Game Week: 11
+Players chosen:
+	182 - Dejan Lovren - DEF
+	201 - Eden Hazard - MID
+	240 - Gary Cahill - DEF
+	277 - Hugo Lloris - GK
+	321 - Jermain Defoe - FWD
+	332 - Joel Robles - GK
+	441 - Marcos Alonso - DEF
+	478 - Michael Dawson - DEF
+	480 - Michael Keane - DEF
+	546 - Pedro Rodríguez Ledesma - MID
+	554 - Philippe Coutinho - MID
+	574 - Roberto Firmino - MID
+	587 - Sadio Mané - MID
+	595 - Sam Vokes - FWD
+	655 - Victor Anichebe - FWD
+
+
+Main Roster:
+	182 - Dejan Lovren - DEF
+	201 - Eden Hazard - MID (CAPTAIN)
+	240 - Gary Cahill - DEF
+	332 - Joel Robles - GK
+	441 - Marcos Alonso - DEF
+	478 - Michael Dawson - DEF
+	546 - Pedro Rodríguez Ledesma - MID (VICE_CAPTAIN)
+	554 - Philippe Coutinho - MID
+	574 - Roberto Firmino - MID
+	595 - Sam Vokes - FWD
+	655 - Victor Anichebe - FWD
+
+Players out:Players in:
+Transfer left: 12
+Total point: 424
+------------------------------------------
+Game Week: 12
+Players chosen:
+	182 - Dejan Lovren - DEF
+	201 - Eden Hazard - MID
+	240 - Gary Cahill - DEF
+	254 - Gnegneri Yaya Touré - MID
+	266 - Harry Kane - FWD
+	321 - Jermain Defoe - FWD
+	332 - Joel Robles - GK
+	354 - Jordan Pickford - GK
+	441 - Marcos Alonso - DEF
+	464 - Matt Phillips - MID
+	507 - Nathan Aké - DEF
+	539 - Patrick van Aanholt - DEF
+	546 - Pedro Rodríguez Ledesma - MID
+	574 - Roberto Firmino - MID
+	655 - Victor Anichebe - FWD
+
+
+Main Roster:
+	182 - Dejan Lovren - DEF
+	201 - Eden Hazard - MID
+	240 - Gary Cahill - DEF
+	254 - Gnegneri Yaya Touré - MID (CAPTAIN)
+	266 - Harry Kane - FWD
+	332 - Joel Robles - GK
+	441 - Marcos Alonso - DEF
+	507 - Nathan Aké - DEF (VICE_CAPTAIN)
+	539 - Patrick van Aanholt - DEF
+	546 - Pedro Rodríguez Ledesma - MID
+	574 - Roberto Firmino - MID
+
+Players out:Players in:
+Transfer left: 13
+Total point: 476
+------------------------------------------
+Game Week: 13
+Players chosen:
+	40 - Alexis Sánchez - MID
+	129 - Christian Benteke - FWD
+	182 - Dejan Lovren - DEF
+	225 - Fernando Llorente - FWD
+	239 - Gareth McAuley - DEF
+	240 - Gary Cahill - DEF
+	262 - Gylfi Sigurdsson - MID
+	332 - Joel Robles - GK
+	354 - Jordan Pickford - GK
+	408 - Leroy Fer - MID
+	441 - Marcos Alonso - DEF
+	464 - Matt Phillips - MID
+	507 - Nathan Aké - DEF
+	546 - Pedro Rodríguez Ledesma - MID
+	607 - Sergio Agüero - FWD
+
+
+Main Roster:
+	40 - Alexis Sánchez - MID
+	129 - Christian Benteke - FWD
+	182 - Dejan Lovren - DEF
+	225 - Fernando Llorente - FWD (VICE_CAPTAIN)
+	240 - Gary Cahill - DEF
+	262 - Gylfi Sigurdsson - MID
+	332 - Joel Robles - GK
+	408 - Leroy Fer - MID (CAPTAIN)
+	441 - Marcos Alonso - DEF
+	464 - Matt Phillips - MID
+	507 - Nathan Aké - DEF
+
+Players out:Players in:
+Transfer left: 14
+Total point: 505
+------------------------------------------
+Game Week: 14
+Players chosen:
+	40 - Alexis Sánchez - MID
+	126 - Chris Brunt - DEF
+	129 - Christian Benteke - FWD
+	130 - Christian Eriksen - MID
+	225 - Fernando Llorente - FWD
+	266 - Harry Kane - FWD
+	274 - Heung-Min Son - MID
+	302 - James Tomkins - DEF
+	332 - Joel Robles - GK
+	354 - Jordan Pickford - GK
+	436 - Marc Muniesa - DEF
+	441 - Marcos Alonso - DEF
+	464 - Matt Phillips - MID
+	507 - Nathan Aké - DEF
+	584 - Ryan Fraser - MID
+
+
+Main Roster:
+	40 - Alexis Sánchez - MID (VICE_CAPTAIN)
+	126 - Chris Brunt - DEF
+	129 - Christian Benteke - FWD
+	130 - Christian Eriksen - MID (CAPTAIN)
+	266 - Harry Kane - FWD
+	274 - Heung-Min Son - MID
+	302 - James Tomkins - DEF
+	332 - Joel Robles - GK
+	436 - Marc Muniesa - DEF
+	441 - Marcos Alonso - DEF
+	507 - Nathan Aké - DEF
+
+Players out:Players in:
+Transfer left: 15
+Total point: 567
+------------------------------------------
+Game Week: 15
+Players chosen:
+	30 - Aleksandar Kolarov - DEF
+	40 - Alexis Sánchez - MID
+	123 - Charlie Daniels - DEF
+	129 - Christian Benteke - FWD
+	130 - Christian Eriksen - MID
+	225 - Fernando Llorente - FWD
+	262 - Gylfi Sigurdsson - MID
+	306 - Jamie Vardy - FWD
+	332 - Joel Robles - GK
+	354 - Jordan Pickford - GK
+	441 - Marcos Alonso - DEF
+	572 - Robert Snodgrass - MID
+	604 - Sebastian Prödl - DEF
+	623 - Stephen Ward - DEF
+	671 - Wilfried Zaha - MID
+
+
+Main Roster:
+	30 - Aleksandar Kolarov - DEF
+	40 - Alexis Sánchez - MID
+	123 - Charlie Daniels - DEF
+	129 - Christian Benteke - FWD
+	225 - Fernando Llorente - FWD
+	262 - Gylfi Sigurdsson - MID
+	306 - Jamie Vardy - FWD (VICE_CAPTAIN)
+	332 - Joel Robles - GK
+	441 - Marcos Alonso - DEF
+	604 - Sebastian Prödl - DEF
+	671 - Wilfried Zaha - MID (CAPTAIN)
+
+Players out:Players in:
+Transfer left: 16
+Total point: 594
+------------------------------------------
+Game Week: 16
+Players chosen:
+	12 - Adam Lallana - MID
+	30 - Aleksandar Kolarov - DEF
+	40 - Alexis Sánchez - MID
+	123 - Charlie Daniels - DEF
+	130 - Christian Eriksen - MID
+	193 - Divock Origi - FWD
+	332 - Joel Robles - GK
+	354 - Jordan Pickford - GK
+	398 - Kyle Walker - DEF
+	441 - Marcos Alonso - DEF
+	447 - Mark Noble - MID
+	534 - Pablo Zabaleta - DEF
+	589 - Salomón Rondón - FWD
+	658 - Victor Wanyama - MID
+	683 - Zlatan Ibrahimovic - FWD
+
+
+Main Roster:
+	12 - Adam Lallana - MID (VICE_CAPTAIN)
+	30 - Aleksandar Kolarov - DEF
+	40 - Alexis Sánchez - MID
+	123 - Charlie Daniels - DEF
+	130 - Christian Eriksen - MID (CAPTAIN)
+	193 - Divock Origi - FWD
+	354 - Jordan Pickford - GK
+	441 - Marcos Alonso - DEF
+	534 - Pablo Zabaleta - DEF
+	589 - Salomón Rondón - FWD
+	683 - Zlatan Ibrahimovic - FWD
+
+Players out:Players in:
+Transfer left: 17
+Total point: 632
+------------------------------------------
+Game Week: 17
+Players chosen:
+	40 - Alexis Sánchez - MID
+	47 - Álvaro Negredo - FWD
+	119 - César Azpilicueta - DEF
+	164 - Danny Rose - DEF
+	168 - Darren Randolph - GK
+	314 - Jay Rodriguez - MID
+	325 - Joe Allen - MID
+	354 - Jordan Pickford - GK
+	398 - Kyle Walker - DEF
+	407 - Leonardo Ulloa - FWD
+	441 - Marcos Alonso - DEF
+	447 - Mark Noble - MID
+	539 - Patrick van Aanholt - DEF
+	587 - Sadio Mané - MID
+	683 - Zlatan Ibrahimovic - FWD
+
+
+Main Roster:
+	40 - Alexis Sánchez - MID
+	47 - Álvaro Negredo - FWD
+	119 - César Azpilicueta - DEF
+	164 - Danny Rose - DEF
+	314 - Jay Rodriguez - MID (CAPTAIN)
+	325 - Joe Allen - MID
+	354 - Jordan Pickford - GK
+	398 - Kyle Walker - DEF
+	441 - Marcos Alonso - DEF
+	539 - Patrick van Aanholt - DEF (VICE_CAPTAIN)
+	683 - Zlatan Ibrahimovic - FWD
+
+Players out:Players in:
+Transfer left: 18
+Total point: 677
+------------------------------------------
+Game Week: 18
+Players chosen:
+	80 - Bamidele Alli - MID
+	119 - César Azpilicueta - DEF
+	130 - Christian Eriksen - MID
+	150 - Daley Blind - DEF
+	164 - Danny Rose - DEF
+	168 - Darren Randolph - GK
+	254 - Gnegneri Yaya Touré - MID
+	332 - Joel Robles - GK
+	385 - Kelechi Iheanacho - FWD
+	389 - Kevin Mirallas - MID
+	407 - Leonardo Ulloa - FWD
+	441 - Marcos Alonso - DEF
+	546 - Pedro Rodríguez Ledesma - MID
+	675 - Winston Reid - DEF
+	683 - Zlatan Ibrahimovic - FWD
+
+
+Main Roster:
+	80 - Bamidele Alli - MID (CAPTAIN)
+	119 - César Azpilicueta - DEF
+	150 - Daley Blind - DEF
+	254 - Gnegneri Yaya Touré - MID
+	332 - Joel Robles - GK
+	385 - Kelechi Iheanacho - FWD
+	389 - Kevin Mirallas - MID
+	441 - Marcos Alonso - DEF
+	546 - Pedro Rodríguez Ledesma - MID
+	675 - Winston Reid - DEF
+	683 - Zlatan Ibrahimovic - FWD (VICE_CAPTAIN)
+
+Players out:Players in:
+Transfer left: 19
+Total point: 722
+------------------------------------------
+Game Week: 19
+Players chosen:
+	33 - Alex Iwobi - MID
+	50 - Andre Gray - FWD
+	68 - Artur Boruc - GK
+	80 - Bamidele Alli - MID
+	123 - Charlie Daniels - DEF
+	150 - Daley Blind - DEF
+	164 - Danny Rose - DEF
+	240 - Gary Cahill - DEF
+	266 - Harry Kane - FWD
+	389 - Kevin Mirallas - MID
+	394 - Kieran Trippier - DEF
+	464 - Matt Phillips - MID
+	549 - Petr Cech - GK
+	673 - Willian Borges Da Silva - MID
+	683 - Zlatan Ibrahimovic - FWD
+
+
+Main Roster:
+	33 - Alex Iwobi - MID
+	50 - Andre Gray - FWD (VICE_CAPTAIN)
+	68 - Artur Boruc - GK
+	80 - Bamidele Alli - MID
+	123 - Charlie Daniels - DEF
+	150 - Daley Blind - DEF
+	164 - Danny Rose - DEF
+	266 - Harry Kane - FWD (CAPTAIN)
+	394 - Kieran Trippier - DEF
+	464 - Matt Phillips - MID
+	673 - Willian Borges Da Silva - MID
+
+Players out:Players in:
+Transfer left: 20
+Total point: 777
+------------------------------------------
+Game Week: 20
+Players chosen:
+	80 - Bamidele Alli - MID
+	100 - Bradley Guzan - GK
+	121 - Charlie Adam - MID
+	123 - Charlie Daniels - DEF
+	126 - Chris Brunt - DEF
+	164 - Danny Rose - DEF
+	321 - Jermain Defoe - FWD
+	332 - Joel Robles - GK
+	404 - Leighton Baines - DEF
+	464 - Matt Phillips - MID
+	524 - Olivier Giroud - FWD
+	572 - Robert Snodgrass - MID
+	584 - Ryan Fraser - MID
+	586 - Ryan Shawcross - DEF
+	683 - Zlatan Ibrahimovic - FWD
+
+
+Main Roster:
+	80 - Bamidele Alli - MID (CAPTAIN)
+	121 - Charlie Adam - MID
+	123 - Charlie Daniels - DEF
+	164 - Danny Rose - DEF
+	321 - Jermain Defoe - FWD
+	332 - Joel Robles - GK
+	404 - Leighton Baines - DEF
+	464 - Matt Phillips - MID
+	524 - Olivier Giroud - FWD (VICE_CAPTAIN)
+	584 - Ryan Fraser - MID
+	586 - Ryan Shawcross - DEF
+
+Players out:Players in:
+Transfer left: 21
+Total point: 825
+------------------------------------------
+Game Week: 21
+Players chosen:
+	8 - Abel Hernández - FWD
+	80 - Bamidele Alli - MID
+	130 - Christian Eriksen - MID
+	164 - Danny Rose - DEF
+	266 - Harry Kane - FWD
+	332 - Joel Robles - GK
+	389 - Kevin Mirallas - MID
+	398 - Kyle Walker - DEF
+	404 - Leighton Baines - DEF
+	441 - Marcos Alonso - DEF
+	448 - Marko Arnautovic - MID
+	485 - Michail Antonio - MID
+	548 - Peter Crouch - FWD
+	602 - Seamus Coleman - DEF
+	657 - Víctor Valdés - GK
+
+
+Main Roster:
+	8 - Abel Hernández - FWD
+	80 - Bamidele Alli - MID
+	130 - Christian Eriksen - MID
+	164 - Danny Rose - DEF
+	266 - Harry Kane - FWD (VICE_CAPTAIN)
+	332 - Joel Robles - GK
+	389 - Kevin Mirallas - MID
+	404 - Leighton Baines - DEF
+	441 - Marcos Alonso - DEF (CAPTAIN)
+	448 - Marko Arnautovic - MID
+	548 - Peter Crouch - FWD
+
+Players out:Players in:
+Transfer left: 22
+Total point: 881
+------------------------------------------
+Game Week: 22
+Players chosen:
+	57 - Andy Carroll - FWD
+	80 - Bamidele Alli - MID
+	84 - Ben Foster - GK
+	118 - Cédric Soares - DEF
+	126 - Chris Brunt - DEF
+	187 - Diego Da Silva Costa - FWD
+	200 - Dusan Tadic - MID
+	225 - Fernando Llorente - FWD
+	240 - Gary Cahill - DEF
+	303 - James Ward-Prowse - MID
+	332 - Joel Robles - GK
+	387 - Kevin De Bruyne - MID
+	404 - Leighton Baines - DEF
+	574 - Roberto Firmino - MID
+	602 - Seamus Coleman - DEF
+
+
+Main Roster:
+	57 - Andy Carroll - FWD
+	80 - Bamidele Alli - MID
+	84 - Ben Foster - GK
+	118 - Cédric Soares - DEF
+	126 - Chris Brunt - DEF (CAPTAIN)
+	187 - Diego Da Silva Costa - FWD
+	225 - Fernando Llorente - FWD
+	240 - Gary Cahill - DEF
+	387 - Kevin De Bruyne - MID
+	574 - Roberto Firmino - MID (VICE_CAPTAIN)
+	602 - Seamus Coleman - DEF
+
+Players out:Players in:
+Transfer left: 23
+Total point: 928
+------------------------------------------
+Game Week: 23
+Players chosen:
+	33 - Alex Iwobi - MID
+	41 - Alfie Mawson - DEF
+	152 - Damien Delaney - DEF
+	178 - David Silva - MID
+	204 - Eldin Jakupovic - GK
+	236 - Gabriel Fernando de Jesus - FWD
+	254 - Gnegneri Yaya Touré - MID
+	262 - Gylfi Sigurdsson - MID
+	332 - Joel Robles - GK
+	387 - Kevin De Bruyne - MID
+	480 - Michael Keane - DEF
+	548 - Peter Crouch - FWD
+	600 - Scott Dann - DEF
+	602 - Seamus Coleman - DEF
+	609 - Shane Long - FWD
+
+
+Main Roster:
+	33 - Alex Iwobi - MID
+	41 - Alfie Mawson - DEF
+	152 - Damien Delaney - DEF
+	204 - Eldin Jakupovic - GK
+	236 - Gabriel Fernando de Jesus - FWD
+	262 - Gylfi Sigurdsson - MID (VICE_CAPTAIN)
+	387 - Kevin De Bruyne - MID
+	480 - Michael Keane - DEF
+	600 - Scott Dann - DEF (CAPTAIN)
+	602 - Seamus Coleman - DEF
+	609 - Shane Long - FWD
+
+Players out:Players in:
+Transfer left: 24
+Total point: 959
+------------------------------------------
+Game Week: 24
+Players chosen:
+	51 - Andrea Ranocchia - DEF
+	65 - Antonio Valencia - DEF
+	128 - Chris Smalling - DEF
+	204 - Eldin Jakupovic - GK
+	236 - Gabriel Fernando de Jesus - FWD
+	262 - Gylfi Sigurdsson - MID
+	273 - Henrikh Mkhitaryan - MID
+	297 - James McCarthy - MID
+	321 - Jermain Defoe - FWD
+	371 - Joshua King - MID
+	399 - Lamine Koné - DEF
+	441 - Marcos Alonso - DEF
+	576 - Romelu Lukaku - FWD
+	578 - Ross Barkley - MID
+	663 - Vito Mannone - GK
+
+
+Main Roster:
+	51 - Andrea Ranocchia - DEF
+	65 - Antonio Valencia - DEF
+	128 - Chris Smalling - DEF
+	204 - Eldin Jakupovic - GK
+	236 - Gabriel Fernando de Jesus - FWD
+	273 - Henrikh Mkhitaryan - MID
+	321 - Jermain Defoe - FWD
+	371 - Joshua King - MID (VICE_CAPTAIN)
+	441 - Marcos Alonso - DEF
+	576 - Romelu Lukaku - FWD (CAPTAIN)
+	578 - Ross Barkley - MID
+
+Players out:Players in:
+Transfer left: 25
+Total point: 997
+------------------------------------------
+Game Week: 25
+Players chosen:
+	40 - Alexis Sánchez - MID
+	41 - Alfie Mawson - DEF
+	63 - Anthony Martial - MID
+	65 - Antonio Valencia - DEF
+	128 - Chris Smalling - DEF
+	403 - Lee Grant - GK
+	432 - Manolo Gabbiadini - FWD
+	434 - Manuel Lanzini - MID
+	455 - Martin Olsson - DEF
+	583 - Ryan Bertrand - DEF
+	587 - Sadio Mané - MID
+	609 - Shane Long - FWD
+	619 - Sofiane Feghouli - MID
+	657 - Víctor Valdés - GK
+	683 - Zlatan Ibrahimovic - FWD
+
+
+Main Roster:
+	40 - Alexis Sánchez - MID (VICE_CAPTAIN)
+	41 - Alfie Mawson - DEF
+	63 - Anthony Martial - MID
+	65 - Antonio Valencia - DEF
+	128 - Chris Smalling - DEF
+	455 - Martin Olsson - DEF
+	583 - Ryan Bertrand - DEF
+	587 - Sadio Mané - MID (CAPTAIN)
+	609 - Shane Long - FWD
+	657 - Víctor Valdés - GK
+	683 - Zlatan Ibrahimovic - FWD
+
+Players out:Players in:
+Transfer left: 26
+Total point: 1027
+------------------------------------------
+Game Week: 26
+Players chosen:
+	120 - Cesc Fàbregas - MID
+	130 - Christian Eriksen - MID
+	143 - Craig Dawson - DEF
+	239 - Gareth McAuley - DEF
+	266 - Harry Kane - FWD
+	279 - Idrissa Gueye - MID
+	306 - Jamie Vardy - FWD
+	403 - Lee Grant - GK
+	480 - Michael Keane - DEF
+	539 - Patrick van Aanholt - DEF
+	546 - Pedro Rodríguez Ledesma - MID
+	554 - Philippe Coutinho - MID
+	602 - Seamus Coleman - DEF
+	651 - Troy Deeney - FWD
+	657 - Víctor Valdés - GK
+
+
+Main Roster:
+	120 - Cesc Fàbregas - MID
+	130 - Christian Eriksen - MID
+	143 - Craig Dawson - DEF
+	239 - Gareth McAuley - DEF
+	266 - Harry Kane - FWD (VICE_CAPTAIN)
+	539 - Patrick van Aanholt - DEF (CAPTAIN)
+	546 - Pedro Rodríguez Ledesma - MID
+	554 - Philippe Coutinho - MID
+	602 - Seamus Coleman - DEF
+	651 - Troy Deeney - FWD
+	657 - Víctor Valdés - GK
+
+Players out:Players in:
+Transfer left: 27
+Total point: 1034
+------------------------------------------
+Game Week: 27
+Players chosen:
+	50 - Andre Gray - FWD
+	80 - Bamidele Alli - MID
+	107 - Bruno Martins Indi - DEF
+	131 - Christian Fuchs - DEF
+	200 - Dusan Tadic - MID
+	225 - Fernando Llorente - FWD
+	237 - Gaël Clichy - DEF
+	266 - Harry Kane - FWD
+	442 - Marcos Rojo - DEF
+	455 - Martin Olsson - DEF
+	510 - Nathan Redmond - MID
+	574 - Roberto Firmino - MID
+	587 - Sadio Mané - MID
+	665 - Wayne Hennessey - GK
+	674 - Willy Caballero - GK
+
+
+Main Roster:
+	50 - Andre Gray - FWD
+	80 - Bamidele Alli - MID
+	107 - Bruno Martins Indi - DEF
+	131 - Christian Fuchs - DEF
+	200 - Dusan Tadic - MID (VICE_CAPTAIN)
+	225 - Fernando Llorente - FWD
+	266 - Harry Kane - FWD
+	442 - Marcos Rojo - DEF
+	455 - Martin Olsson - DEF
+	510 - Nathan Redmond - MID (CAPTAIN)
+	665 - Wayne Hennessey - GK
+
+Players out:Players in:
+Transfer left: 28
+Total point: 1083
+------------------------------------------
+Game Week: 28
+Players chosen:
+	10 - Adam Federici - GK
+	41 - Alfie Mawson - DEF
+	69 - Ashley Barnes - FWD
+	72 - Ashley Williams - DEF
+	332 - Joel Robles - GK
+	371 - Joshua King - MID
+	389 - Kevin Mirallas - MID
+	455 - Martin Olsson - DEF
+	485 - Michail Antonio - MID
+	495 - Morgan Schneiderlin - MID
+	531 - Oumar Niasse - FWD
+	551 - Phil Jagielka - DEF
+	576 - Romelu Lukaku - FWD
+	578 - Ross Barkley - MID
+	602 - Seamus Coleman - DEF
+
+
+Main Roster:
+	41 - Alfie Mawson - DEF
+	69 - Ashley Barnes - FWD
+	72 - Ashley Williams - DEF
+	332 - Joel Robles - GK
+	371 - Joshua King - MID (CAPTAIN)
+	389 - Kevin Mirallas - MID
+	495 - Morgan Schneiderlin - MID
+	531 - Oumar Niasse - FWD (VICE_CAPTAIN)
+	551 - Phil Jagielka - DEF
+	576 - Romelu Lukaku - FWD
+	602 - Seamus Coleman - DEF
+
+Players out:Players in:
+Transfer left: 29
+Total point: 1086
+------------------------------------------
+Game Week: 29
+Players chosen:
+	49 - André Ayew - MID
+	65 - Antonio Valencia - DEF
+	80 - Bamidele Alli - MID
+	143 - Craig Dawson - DEF
+	211 - Enner Valencia - FWD
+	240 - Gary Cahill - DEF
+	306 - Jamie Vardy - FWD
+	323 - Jesse Lingard - MID
+	354 - Jordan Pickford - GK
+	404 - Leighton Baines - DEF
+	434 - Manuel Lanzini - MID
+	571 - Robert Huth - DEF
+	576 - Romelu Lukaku - FWD
+	647 - Tom Heaton - GK
+	673 - Willian Borges Da Silva - MID
+
+
+Main Roster:
+	49 - André Ayew - MID
+	65 - Antonio Valencia - DEF
+	80 - Bamidele Alli - MID
+	143 - Craig Dawson - DEF (VICE_CAPTAIN)
+	211 - Enner Valencia - FWD
+	240 - Gary Cahill - DEF
+	306 - Jamie Vardy - FWD
+	323 - Jesse Lingard - MID
+	434 - Manuel Lanzini - MID
+	576 - Romelu Lukaku - FWD (CAPTAIN)
+	647 - Tom Heaton - GK
+
+Players out:Players in:
+Transfer left: 30
+Total point: 1145
+------------------------------------------
+Game Week: 30
+Players chosen:
+	54 - Andrew Robertson - DEF
+	68 - Artur Boruc - GK
+	120 - Cesc Fàbregas - MID
+	129 - Christian Benteke - FWD
+	142 - Craig Cathcart - DEF
+	165 - Danny Simpson - DEF
+	213 - Eric Dier - MID
+	275 - Heurelho Gomes - GK
+	306 - Jamie Vardy - FWD
+	382 - Kamil Grosicki - MID
+	488 - Miguel Britos - DEF
+	554 - Philippe Coutinho - MID
+	607 - Sergio Agüero - FWD
+	614 - Shkodran Mustafi - DEF
+	671 - Wilfried Zaha - MID
+
+
+Main Roster:
+	54 - Andrew Robertson - DEF
+	68 - Artur Boruc - GK
+	120 - Cesc Fàbregas - MID
+	129 - Christian Benteke - FWD
+	165 - Danny Simpson - DEF (VICE_CAPTAIN)
+	213 - Eric Dier - MID
+	382 - Kamil Grosicki - MID
+	488 - Miguel Britos - DEF (CAPTAIN)
+	554 - Philippe Coutinho - MID
+	607 - Sergio Agüero - FWD
+	614 - Shkodran Mustafi - DEF
+
+Players out:Players in:
+Transfer left: 31
+Total point: 1186
+------------------------------------------
+Game Week: 31
+Players chosen:
+	8 - Abel Hernández - FWD
+	80 - Bamidele Alli - MID
+	130 - Christian Eriksen - MID
+	131 - Christian Fuchs - DEF
+	201 - Eden Hazard - MID
+	268 - Harry Maguire - DEF
+	275 - Heurelho Gomes - GK
+	384 - Kasper Schmeichel - GK
+	426 - M'Baye Niang - FWD
+	474 - Maya Yoshida - DEF
+	476 - Mesut Özil - MID
+	510 - Nathan Redmond - MID
+	551 - Phil Jagielka - DEF
+	571 - Robert Huth - DEF
+	651 - Troy Deeney - FWD
+
+
+Main Roster:
+	8 - Abel Hernández - FWD (VICE_CAPTAIN)
+	80 - Bamidele Alli - MID
+	130 - Christian Eriksen - MID
+	131 - Christian Fuchs - DEF
+	201 - Eden Hazard - MID (CAPTAIN)
+	268 - Harry Maguire - DEF
+	275 - Heurelho Gomes - GK
+	426 - M'Baye Niang - FWD
+	476 - Mesut Özil - MID
+	571 - Robert Huth - DEF
+	651 - Troy Deeney - FWD
+
+Players out:Players in:
+Transfer left: 32
+Total point: 1238
+------------------------------------------
+Game Week: 32
+Players chosen:
+	51 - Andrea Ranocchia - DEF
+	56 - Andros Townsend - MID
+	187 - Diego Da Silva Costa - FWD
+	274 - Heung-Min Son - MID
+	348 - Jonathan Walters - MID
+	394 - Kieran Trippier - DEF
+	423 - Luke Shaw - DEF
+	441 - Marcos Alonso - DEF
+	551 - Phil Jagielka - DEF
+	557 - Raheem Sterling - MID
+	576 - Romelu Lukaku - FWD
+	647 - Tom Heaton - GK
+	665 - Wayne Hennessey - GK
+	671 - Wilfried Zaha - MID
+	683 - Zlatan Ibrahimovic - FWD
+
+
+Main Roster:
+	51 - Andrea Ranocchia - DEF
+	56 - Andros Townsend - MID (CAPTAIN)
+	187 - Diego Da Silva Costa - FWD
+	274 - Heung-Min Son - MID (VICE_CAPTAIN)
+	348 - Jonathan Walters - MID
+	423 - Luke Shaw - DEF
+	441 - Marcos Alonso - DEF
+	551 - Phil Jagielka - DEF
+	576 - Romelu Lukaku - FWD
+	665 - Wayne Hennessey - GK
+	671 - Wilfried Zaha - MID
+
+Players out:Players in:
+Transfer left: 33
+Total point: 1278
+------------------------------------------
+Game Week: 33
+Players chosen:
+	48 - Ander Herrera - MID
+	129 - Christian Benteke - FWD
+	266 - Harry Kane - FWD
+	268 - Harry Maguire - DEF
+	274 - Heung-Min Son - MID
+	275 - Heurelho Gomes - GK
+	294 - James Collins - DEF
+	448 - Marko Arnautovic - MID
+	551 - Phil Jagielka - DEF
+	571 - Robert Huth - DEF
+	574 - Roberto Firmino - MID
+	576 - Romelu Lukaku - FWD
+	616 - Simon Mignolet - GK
+	661 - Vincent Kompany - DEF
+	676 - Xherdan Shaqiri - MID
+
+
+Main Roster:
+	48 - Ander Herrera - MID
+	129 - Christian Benteke - FWD
+	266 - Harry Kane - FWD
+	294 - James Collins - DEF
+	448 - Marko Arnautovic - MID (CAPTAIN)
+	551 - Phil Jagielka - DEF
+	571 - Robert Huth - DEF
+	574 - Roberto Firmino - MID
+	616 - Simon Mignolet - GK
+	661 - Vincent Kompany - DEF (VICE_CAPTAIN)
+	676 - Xherdan Shaqiri - MID
+
+Players out:Players in:
+Transfer left: 34
+Total point: 1328
+------------------------------------------
+Game Week: 34
+Players chosen:
+	83 - Ben Davies - DEF
+	92 - Benik Afobe - FWD
+	100 - Bradley Guzan - GK
+	123 - Charlie Daniels - DEF
+	130 - Christian Eriksen - MID
+	171 - David de Gea - GK
+	187 - Diego Da Silva Costa - FWD
+	201 - Eden Hazard - MID
+	225 - Fernando Llorente - FWD
+	240 - Gary Cahill - DEF
+	272 - Héctor Bellerín - DEF
+	371 - Joshua King - MID
+	437 - Marc Pugh - MID
+	452 - Marten de Roon - MID
+	505 - Nacho Monreal - DEF
+
+
+Main Roster:
+	83 - Ben Davies - DEF
+	92 - Benik Afobe - FWD
+	100 - Bradley Guzan - GK
+	123 - Charlie Daniels - DEF (CAPTAIN)
+	187 - Diego Da Silva Costa - FWD (VICE_CAPTAIN)
+	201 - Eden Hazard - MID
+	240 - Gary Cahill - DEF
+	272 - Héctor Bellerín - DEF
+	371 - Joshua King - MID
+	437 - Marc Pugh - MID
+	505 - Nacho Monreal - DEF
+
+Players out:Players in:
+Transfer left: 35
+Total point: 1365
+------------------------------------------
+Game Week: 35
+Players chosen:
+	15 - Adam Smith - DEF
+	47 - Álvaro Negredo - FWD
+	80 - Bamidele Alli - MID
+	111 - Calum Chambers - DEF
+	204 - Eldin Jakupovic - GK
+	210 - Emre Can - MID
+	236 - Gabriel Fernando de Jesus - FWD
+	240 - Gary Cahill - DEF
+	252 - Glen Johnson - DEF
+	262 - Gylfi Sigurdsson - MID
+	277 - Hugo Lloris - GK
+	331 - Joel Matip - DEF
+	371 - Joshua King - MID
+	546 - Pedro Rodríguez Ledesma - MID
+	607 - Sergio Agüero - FWD
+
+
+Main Roster:
+	15 - Adam Smith - DEF
+	47 - Álvaro Negredo - FWD (CAPTAIN)
+	80 - Bamidele Alli - MID
+	111 - Calum Chambers - DEF
+	210 - Emre Can - MID
+	240 - Gary Cahill - DEF (VICE_CAPTAIN)
+	277 - Hugo Lloris - GK
+	331 - Joel Matip - DEF
+	371 - Joshua King - MID
+	546 - Pedro Rodríguez Ledesma - MID
+	607 - Sergio Agüero - FWD
+
+Players out:Players in:
+Transfer left: 36
+Total point: 1420
+------------------------------------------
+Game Week: 36
+Players chosen:
+	96 - Billy Jones - DEF
+	119 - César Azpilicueta - DEF
+	120 - Cesc Fàbregas - MID
+	178 - David Silva - MID
+	225 - Fernando Llorente - FWD
+	306 - Jamie Vardy - FWD
+	354 - Jordan Pickford - GK
+	384 - Kasper Schmeichel - GK
+	387 - Kevin De Bruyne - MID
+	435 - Marc Albrighton - MID
+	441 - Marcos Alonso - DEF
+	516 - Nicolás Otamendi - DEF
+	557 - Raheem Sterling - MID
+	595 - Sam Vokes - FWD
+	661 - Vincent Kompany - DEF
+
+
+Main Roster:
+	96 - Billy Jones - DEF (VICE_CAPTAIN)
+	119 - César Azpilicueta - DEF
+	120 - Cesc Fàbregas - MID
+	178 - David Silva - MID
+	225 - Fernando Llorente - FWD
+	306 - Jamie Vardy - FWD
+	384 - Kasper Schmeichel - GK
+	387 - Kevin De Bruyne - MID (CAPTAIN)
+	516 - Nicolás Otamendi - DEF
+	595 - Sam Vokes - FWD
+	661 - Vincent Kompany - DEF
+
+Players out:Players in:
+Transfer left: 37
+Total point: 1462
+------------------------------------------
+Game Week: 37
+Players chosen:
+	40 - Alexis Sánchez - MID
+	120 - Cesc Fàbregas - MID
+	266 - Harry Kane - FWD
+	274 - Heung-Min Son - MID
+	318 - Jeffrey Schlupp - DEF
+	332 - Joel Robles - GK
+	387 - Kevin De Bruyne - MID
+	397 - Kyle Naughton - DEF
+	537 - Patrick Bamford - FWD
+	539 - Patrick van Aanholt - DEF
+	551 - Phil Jagielka - DEF
+	554 - Philippe Coutinho - MID
+	569 - Rob Holding - DEF
+	595 - Sam Vokes - FWD
+	608 - Sergio Romero - GK
+
+
+Main Roster:
+	266 - Harry Kane - FWD (VICE_CAPTAIN)
+	274 - Heung-Min Son - MID
+	318 - Jeffrey Schlupp - DEF
+	332 - Joel Robles - GK
+	387 - Kevin De Bruyne - MID
+	397 - Kyle Naughton - DEF
+	537 - Patrick Bamford - FWD
+	551 - Phil Jagielka - DEF
+	554 - Philippe Coutinho - MID (CAPTAIN)
+	569 - Rob Holding - DEF
+	595 - Sam Vokes - FWD
+
+Players out:Players in:
+Transfer left: 38
+Total point: 1531
+------------------------------------------
+Final result:
+Total point: 1599
+------------------------------------------
