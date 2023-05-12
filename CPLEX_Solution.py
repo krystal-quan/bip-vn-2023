@@ -108,11 +108,11 @@ def chooseTeam(gameWeek):
         # m.print_solution()
     elif (gameWeek >= 1):
         m.add_constraint(m.sum(m.abs(x_p[i] - OT[i]) for i in range(prm.TOTAL_PLAYERS)) <= prm.transferLeft)
-        z = m.sum(x_p[i] * (EP[i] * (1 + cap_p[i] + vice_p[i]) + IFL[i] * 0.04) for i in range(prm.TOTAL_PLAYERS))
-        # z = m.sum(x_p[i] * EP[i] * (1 + cap_p[i] + vice_p[i]) for i in range(prm.TOTAL_PLAYERS))
+        # z = m.sum(x_p[i] * (EP[i] * (1 + cap_p[i] + vice_p[i]) + IFL[i] * 0.04) for i in range(prm.TOTAL_PLAYERS))
+        z = m.sum(x_p[i] * EP[i] * (1 + cap_p[i] + vice_p[i]) for i in range(prm.TOTAL_PLAYERS))
         m.maximize(z)
         m.solve()
-        # m.print_solution()
+        m.print_solution()
 
     # Get the solution
     player_id = []
@@ -123,7 +123,7 @@ def chooseTeam(gameWeek):
     out_id = []
     for i in range(prm.TOTAL_PLAYERS):
         if (prm.gameWeek >= 1):
-            if x_p[i].solution_value > 0 and OT[i] == 0:
+            if x_p[i].solution_value == 1 and OT[i] == 0:
                 in_id.append(i)
             elif x_p[i].solution_value != 1 and OT[i] == 1:
                 out_id.append(i)
@@ -139,7 +139,6 @@ def chooseTeam(gameWeek):
         if vice_p[i].solution_value == 1:
             vice_id = i
     prm.transferLeft = prm.transferLeft - len(out_id)
-    print(len(in_id))
     prm.chosenPlayerList.append(cht.Chosen_Team(captain_id, vice_id, player_id, mainPlayer_id, prm.transferLeft, prm.point, out_id, in_id))
         
             
