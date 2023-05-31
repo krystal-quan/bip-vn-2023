@@ -1,104 +1,33 @@
 import csv
 import random
+import player as plr
+import parameter as prm
+import chosen_team as cht
+import stored_old_data as sod
 
-class Player:
-    num_of_players = 0
-    def __init__(self, first_name, second_name, value):
-        self.first_name = first_name
-        self.second_name = second_name
-        self.value = value
-        Player.num_of_players += 1
-        self.id = Player.num_of_players
-    
-    def __str__(self):
-        return f"Player {self.id}: {self.first_name} {self.second_name} - Value: {self.value}"
-    
-    def getValue(self):
-        return self.value
-    
-    def getName(self):
-        return f"{self.first_name} {self.second_name}"
-    
-class ChosenPlayer:
-    def __init__(self, id = [], *args):
-        self.chosenPlayerList = id
-    
-    def printPlayerList(self):
-        for player in self.chosenPlayerList:
-            print(playerList[player - 1])
-    def __str__(self):
-        return f"Players chosen:\n{printPlayerList()}"
-    
-class Point:
-    totalPoints = 0
-    pointList = []
-    
-    def __init__(self, points):
-        self.points = points
-        Point.totalPoints += points
-        Point.pointList.append(points)
-        
-    def __str__(self):
-        return f"Total points: {Point.totalPoints}\nPoints per game: {Point.getPointsPerGame()}"
-        
-    def getPoints(self, gameWeek):
-        return f"GameWeek {gameWeek}: {Point.pointList[gameWeek - 1]}"
-    
-    def getTotalPoints(self):
-        return Point.totalPoints
-    
-    def getPointsPerGame(self):
-        for i in range(len(Point.pointList)):
-            return f"{Point.getPoints(i + 1)}"
-    
-    
-
-# Variables
-NUM_OF_PLAYERS = 15        
-playerList = []
-chosenPlayerList = []
-currentPlayer = []
-gameWeekCount = 0
-
-
-def getDataFromCSV():
-    with open('cleaned_player.csv','r', encoding="Latin1") as file:
-        csvFile = csv.reader(file)
-        for lines in csvFile:
-            playerList.append(Player(lines[0], lines[1], lines[17]))
             
 def printPlayerList():
-    for player in playerList:
+    for player in prm.playerList:
         print(player)
 
-def choosePlayerEachWeek():
-    global gameWeekCount
-    while (gameWeekCount < 38):
-        if (gameWeekCount == 0):
-            while (True):
-                for _ in range(NUM_OF_PLAYERS):
-                    while (True):
-                        tempId = random.randint(1, Player.num_of_players)
-                        if (tempId not in currentPlayer):
-                            currentPlayer.append(tempId)
-                            break
-                if (True):
-                    #TODO: Check if total value of 15 player is less than 100
-                    chosenPlayerList.append(ChosenPlayer(currentPlayer))
-                    break
-        else:
-            eliminatedPlayer = random.randint(0, NUM_OF_PLAYERS - 1)
-            currentPlayer.pop(eliminatedPlayer)
-            while (True):
-                tempId = random.randint(1, Player.num_of_players)
-                if (tempId not in currentPlayer):
-                    currentPlayer.append(tempId)
-                    break
-        chosenPlayerList.append(ChosenPlayer(currentPlayer))
-        gameWeekCount += 1
-
-getDataFromCSV()
-choosePlayerEachWeek()
-for i in range(len(chosenPlayerList)):
-    print(f"GameWeek {str(i)}:")
-    chosenPlayerList[i].printPlayerList()
+def completeWeek(gameWeek):
+    tempPoint = 0
+    cap_available = True
+    cap_id = prm.chosenPlayerList[gameWeek - 1].captain
+    if prm.playerList[cap_id]._total_points != -1:
+        cap_available = True
+    for i in prm.chosenPlayerList[gameWeek-1].mainTeam:
+        if prm.playerList[i]._total_points != -1:
+            if (i == prm.chosenPlayerList[gameWeek-1].captain and cap_available):
+                tempPoint += prm.playerList[i]._total_points * 2
+            elif (
+                i == prm.chosenPlayerList[gameWeek - 1].vice_captain
+                and not cap_available
+            ):
+                tempPoint += prm.playerList[i]._total_points * 2
+            else:
+                tempPoint += prm.playerList[i]._total_points
+    prm.point += tempPoint
+    prm.transferLeft = min(prm.transferLeft + prm.FREE_TOKEN, prm.MAX_TOKEN)
+    
+            
