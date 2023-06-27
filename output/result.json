@@ -1,0 +1,6824 @@
+{
+ "All week": [
+  {
+   "Week 0": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "80",
+       "player": "Bamidele_Alli",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "130",
+       "player": "Christian_Eriksen",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "225",
+       "player": "Fernando_Llorente",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "274",
+       "player": "Heung-Min_Son",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "595",
+       "player": "Sam_Vokes",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "602",
+       "player": "Seamus_Coleman",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID"
+      },
+      {
+       "id": "80",
+       "player": "Bamidele_Alli",
+       "position": "MID"
+      },
+      {
+       "id": "225",
+       "player": "Fernando_Llorente",
+       "position": "FWD"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF"
+      },
+      {
+       "id": "274",
+       "player": "Heung-Min_Son",
+       "position": "MID"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF"
+      },
+      {
+       "id": "595",
+       "player": "Sam_Vokes",
+       "position": "FWD"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 1": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "80",
+       "player": "Bamidele_Alli",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "130",
+       "player": "Christian_Eriksen",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "225",
+       "player": "Fernando_Llorente",
+       "position": "FWD",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "274",
+       "player": "Heung-Min_Son",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "595",
+       "player": "Sam_Vokes",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "602",
+       "player": "Seamus_Coleman",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID"
+      },
+      {
+       "id": "80",
+       "player": "Bamidele_Alli",
+       "position": "MID"
+      },
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF"
+      },
+      {
+       "id": "130",
+       "player": "Christian_Eriksen",
+       "position": "MID"
+      },
+      {
+       "id": "225",
+       "player": "Fernando_Llorente",
+       "position": "FWD"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF"
+      },
+      {
+       "id": "274",
+       "player": "Heung-Min_Son",
+       "position": "MID"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {}
+     ]
+    }
+   ]
+  },
+  {
+   "Week 2": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "80",
+       "player": "Bamidele_Alli",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "130",
+       "player": "Christian_Eriksen",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "148",
+       "player": "Curtis_Davies",
+       "position": "DEF",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "225",
+       "player": "Fernando_Llorente",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "274",
+       "player": "Heung-Min_Son",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "595",
+       "player": "Sam_Vokes",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "602",
+       "player": "Seamus_Coleman",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID"
+      },
+      {
+       "id": "80",
+       "player": "Bamidele_Alli",
+       "position": "MID"
+      },
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF"
+      },
+      {
+       "id": "148",
+       "player": "Curtis_Davies",
+       "position": "DEF"
+      },
+      {
+       "id": "225",
+       "player": "Fernando_Llorente",
+       "position": "FWD"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF"
+      },
+      {
+       "id": "595",
+       "player": "Sam_Vokes",
+       "position": "FWD"
+      },
+      {
+       "id": "602",
+       "player": "Seamus_Coleman",
+       "position": "DEF"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "148 - Curtis Davies - DEF",
+       "out": "441 - Marcos Alonso - DEF"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 3": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "130",
+       "player": "Christian_Eriksen",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "148",
+       "player": "Curtis_Davies",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "225",
+       "player": "Fernando_Llorente",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "274",
+       "player": "Heung-Min_Son",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "595",
+       "player": "Sam_Vokes",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "602",
+       "player": "Seamus_Coleman",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID"
+      },
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF"
+      },
+      {
+       "id": "130",
+       "player": "Christian_Eriksen",
+       "position": "MID"
+      },
+      {
+       "id": "148",
+       "player": "Curtis_Davies",
+       "position": "DEF"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF"
+      },
+      {
+       "id": "274",
+       "player": "Heung-Min_Son",
+       "position": "MID"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID"
+      },
+      {
+       "id": "595",
+       "player": "Sam_Vokes",
+       "position": "FWD"
+      },
+      {
+       "id": "602",
+       "player": "Seamus_Coleman",
+       "position": "DEF"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "557 - Raheem Sterling - MID",
+       "out": "80 - Bamidele Alli - MID"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 4": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "130",
+       "player": "Christian_Eriksen",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "148",
+       "player": "Curtis_Davies",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "274",
+       "player": "Heung-Min_Son",
+       "position": "MID",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "595",
+       "player": "Sam_Vokes",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "602",
+       "player": "Seamus_Coleman",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID"
+      },
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF"
+      },
+      {
+       "id": "130",
+       "player": "Christian_Eriksen",
+       "position": "MID"
+      },
+      {
+       "id": "148",
+       "player": "Curtis_Davies",
+       "position": "DEF"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF"
+      },
+      {
+       "id": "274",
+       "player": "Heung-Min_Son",
+       "position": "MID"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF"
+      },
+      {
+       "id": "595",
+       "player": "Sam_Vokes",
+       "position": "FWD"
+      },
+      {
+       "id": "602",
+       "player": "Seamus_Coleman",
+       "position": "DEF"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "576 - Romelu Lukaku - FWD",
+       "out": "225 - Fernando Llorente - FWD"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 5": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "148",
+       "player": "Curtis_Davies",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "274",
+       "player": "Heung-Min_Son",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "504",
+       "player": "Nacer_Chadli",
+       "position": "MID",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "595",
+       "player": "Sam_Vokes",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "602",
+       "player": "Seamus_Coleman",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID"
+      },
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF"
+      },
+      {
+       "id": "148",
+       "player": "Curtis_Davies",
+       "position": "DEF"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK"
+      },
+      {
+       "id": "504",
+       "player": "Nacer_Chadli",
+       "position": "MID"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD"
+      },
+      {
+       "id": "595",
+       "player": "Sam_Vokes",
+       "position": "FWD"
+      },
+      {
+       "id": "602",
+       "player": "Seamus_Coleman",
+       "position": "DEF"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "504 - Nacer Chadli - MID",
+       "out": "130 - Christian Eriksen - MID"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 6": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "148",
+       "player": "Curtis_Davies",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "274",
+       "player": "Heung-Min_Son",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "554",
+       "player": "Philippe_Coutinho",
+       "position": "MID",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "595",
+       "player": "Sam_Vokes",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "602",
+       "player": "Seamus_Coleman",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF"
+      },
+      {
+       "id": "148",
+       "player": "Curtis_Davies",
+       "position": "DEF"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF"
+      },
+      {
+       "id": "274",
+       "player": "Heung-Min_Son",
+       "position": "MID"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD"
+      },
+      {
+       "id": "554",
+       "player": "Philippe_Coutinho",
+       "position": "MID"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD"
+      },
+      {
+       "id": "595",
+       "player": "Sam_Vokes",
+       "position": "FWD"
+      },
+      {
+       "id": "602",
+       "player": "Seamus_Coleman",
+       "position": "DEF"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "554 - Philippe Coutinho - MID",
+       "out": "504 - Nacer Chadli - MID"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 7": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "148",
+       "player": "Curtis_Davies",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "274",
+       "player": "Heung-Min_Son",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "400",
+       "player": "Laurent_Koscielny",
+       "position": "DEF",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "554",
+       "player": "Philippe_Coutinho",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "595",
+       "player": "Sam_Vokes",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "602",
+       "player": "Seamus_Coleman",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID"
+      },
+      {
+       "id": "274",
+       "player": "Heung-Min_Son",
+       "position": "MID"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID"
+      },
+      {
+       "id": "400",
+       "player": "Laurent_Koscielny",
+       "position": "DEF"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD"
+      },
+      {
+       "id": "554",
+       "player": "Philippe_Coutinho",
+       "position": "MID"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF"
+      },
+      {
+       "id": "595",
+       "player": "Sam_Vokes",
+       "position": "FWD"
+      },
+      {
+       "id": "602",
+       "player": "Seamus_Coleman",
+       "position": "DEF"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "400 - Laurent Koscielny - DEF",
+       "out": "240 - Gary Cahill - DEF"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 8": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "148",
+       "player": "Curtis_Davies",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "381",
+       "player": "Junior_Stanislas",
+       "position": "MID",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "400",
+       "player": "Laurent_Koscielny",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "554",
+       "player": "Philippe_Coutinho",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "595",
+       "player": "Sam_Vokes",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "602",
+       "player": "Seamus_Coleman",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID"
+      },
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID"
+      },
+      {
+       "id": "381",
+       "player": "Junior_Stanislas",
+       "position": "MID"
+      },
+      {
+       "id": "400",
+       "player": "Laurent_Koscielny",
+       "position": "DEF"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD"
+      },
+      {
+       "id": "595",
+       "player": "Sam_Vokes",
+       "position": "FWD"
+      },
+      {
+       "id": "602",
+       "player": "Seamus_Coleman",
+       "position": "DEF"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "381 - Junior Stanislas - MID",
+       "out": "274 - Heung-Min Son - MID"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 9": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "148",
+       "player": "Curtis_Davies",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "381",
+       "player": "Junior_Stanislas",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "400",
+       "player": "Laurent_Koscielny",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "554",
+       "player": "Philippe_Coutinho",
+       "position": "MID",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "595",
+       "player": "Sam_Vokes",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID"
+      },
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF"
+      },
+      {
+       "id": "148",
+       "player": "Curtis_Davies",
+       "position": "DEF"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID"
+      },
+      {
+       "id": "400",
+       "player": "Laurent_Koscielny",
+       "position": "DEF"
+      },
+      {
+       "id": "554",
+       "player": "Philippe_Coutinho",
+       "position": "MID"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "240 - Gary Cahill - DEF",
+       "out": "602 - Seamus Coleman - DEF"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 10": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "148",
+       "player": "Curtis_Davies",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "400",
+       "player": "Laurent_Koscielny",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "554",
+       "player": "Philippe_Coutinho",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "595",
+       "player": "Sam_Vokes",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID"
+      },
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF"
+      },
+      {
+       "id": "148",
+       "player": "Curtis_Davies",
+       "position": "DEF"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD"
+      },
+      {
+       "id": "554",
+       "player": "Philippe_Coutinho",
+       "position": "MID"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF"
+      },
+      {
+       "id": "595",
+       "player": "Sam_Vokes",
+       "position": "FWD"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "281 - Ilkay G\u00fcndogan - MID",
+       "out": "381 - Junior Stanislas - MID"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 11": [
+    {
+     "Main Roster": [
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "148",
+       "player": "Curtis_Davies",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "201",
+       "player": "Eden_Hazard",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "400",
+       "player": "Laurent_Koscielny",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "554",
+       "player": "Philippe_Coutinho",
+       "position": "MID",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "595",
+       "player": "Sam_Vokes",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF"
+      },
+      {
+       "id": "148",
+       "player": "Curtis_Davies",
+       "position": "DEF"
+      },
+      {
+       "id": "201",
+       "player": "Eden_Hazard",
+       "position": "MID"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD"
+      },
+      {
+       "id": "554",
+       "player": "Philippe_Coutinho",
+       "position": "MID"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF"
+      },
+      {
+       "id": "595",
+       "player": "Sam_Vokes",
+       "position": "FWD"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "201 - Eden Hazard - MID",
+       "out": "40 - Alexis S\u00e1nchez - MID"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 12": [
+    {
+     "Main Roster": [
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "201",
+       "player": "Eden_Hazard",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "400",
+       "player": "Laurent_Koscielny",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "554",
+       "player": "Philippe_Coutinho",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "595",
+       "player": "Sam_Vokes",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID"
+      },
+      {
+       "id": "400",
+       "player": "Laurent_Koscielny",
+       "position": "DEF"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD"
+      },
+      {
+       "id": "554",
+       "player": "Philippe_Coutinho",
+       "position": "MID"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF"
+      },
+      {
+       "id": "595",
+       "player": "Sam_Vokes",
+       "position": "FWD"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "507 - Nathan Ak\u00e9 - DEF",
+       "out": "148 - Curtis Davies - DEF"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 13": [
+    {
+     "Main Roster": [
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "201",
+       "player": "Eden_Hazard",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "225",
+       "player": "Fernando_Llorente",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "400",
+       "player": "Laurent_Koscielny",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "554",
+       "player": "Philippe_Coutinho",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "595",
+       "player": "Sam_Vokes",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF"
+      },
+      {
+       "id": "201",
+       "player": "Eden_Hazard",
+       "position": "MID"
+      },
+      {
+       "id": "225",
+       "player": "Fernando_Llorente",
+       "position": "FWD"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID"
+      },
+      {
+       "id": "400",
+       "player": "Laurent_Koscielny",
+       "position": "DEF"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD"
+      },
+      {
+       "id": "554",
+       "player": "Philippe_Coutinho",
+       "position": "MID"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "225 - Fernando Llorente - FWD",
+       "out": "576 - Romelu Lukaku - FWD"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 14": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "201",
+       "player": "Eden_Hazard",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "225",
+       "player": "Fernando_Llorente",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "400",
+       "player": "Laurent_Koscielny",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "595",
+       "player": "Sam_Vokes",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID"
+      },
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF"
+      },
+      {
+       "id": "201",
+       "player": "Eden_Hazard",
+       "position": "MID"
+      },
+      {
+       "id": "225",
+       "player": "Fernando_Llorente",
+       "position": "FWD"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID"
+      },
+      {
+       "id": "400",
+       "player": "Laurent_Koscielny",
+       "position": "DEF"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF"
+      },
+      {
+       "id": "595",
+       "player": "Sam_Vokes",
+       "position": "FWD"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "40 - Alexis S\u00e1nchez - MID",
+       "out": "554 - Philippe Coutinho - MID"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 15": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "201",
+       "player": "Eden_Hazard",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "225",
+       "player": "Fernando_Llorente",
+       "position": "FWD",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "306",
+       "player": "Jamie_Vardy",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "400",
+       "player": "Laurent_Koscielny",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID"
+      },
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF"
+      },
+      {
+       "id": "225",
+       "player": "Fernando_Llorente",
+       "position": "FWD"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID"
+      },
+      {
+       "id": "306",
+       "player": "Jamie_Vardy",
+       "position": "FWD"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "306 - Jamie Vardy - FWD",
+       "out": "595 - Sam Vokes - FWD"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 16": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "130",
+       "player": "Christian_Eriksen",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "225",
+       "player": "Fernando_Llorente",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "306",
+       "player": "Jamie_Vardy",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "400",
+       "player": "Laurent_Koscielny",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID"
+      },
+      {
+       "id": "123",
+       "player": "Charlie_Daniels",
+       "position": "DEF"
+      },
+      {
+       "id": "130",
+       "player": "Christian_Eriksen",
+       "position": "MID"
+      },
+      {
+       "id": "225",
+       "player": "Fernando_Llorente",
+       "position": "FWD"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "306",
+       "player": "Jamie_Vardy",
+       "position": "FWD"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "130 - Christian Eriksen - MID",
+       "out": "201 - Eden Hazard - MID"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 17": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "130",
+       "player": "Christian_Eriksen",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "225",
+       "player": "Fernando_Llorente",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "306",
+       "player": "Jamie_Vardy",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "400",
+       "player": "Laurent_Koscielny",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "539",
+       "player": "Patrick_van Aanholt",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF",
+       "Captain": "1",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID"
+      },
+      {
+       "id": "130",
+       "player": "Christian_Eriksen",
+       "position": "MID"
+      },
+      {
+       "id": "225",
+       "player": "Fernando_Llorente",
+       "position": "FWD"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID"
+      },
+      {
+       "id": "306",
+       "player": "Jamie_Vardy",
+       "position": "FWD"
+      },
+      {
+       "id": "400",
+       "player": "Laurent_Koscielny",
+       "position": "DEF"
+      },
+      {
+       "id": "539",
+       "player": "Patrick_van Aanholt",
+       "position": "DEF"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "539 - Patrick van Aanholt - DEF",
+       "out": "123 - Charlie Daniels - DEF"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 18": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "130",
+       "player": "Christian_Eriksen",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "225",
+       "player": "Fernando_Llorente",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "400",
+       "player": "Laurent_Koscielny",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "539",
+       "player": "Patrick_van Aanholt",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "683",
+       "player": "Zlatan_Ibrahimovic",
+       "position": "FWD",
+       "Captain": "1",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID"
+      },
+      {
+       "id": "400",
+       "player": "Laurent_Koscielny",
+       "position": "DEF"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF"
+      },
+      {
+       "id": "683",
+       "player": "Zlatan_Ibrahimovic",
+       "position": "FWD"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "683 - Zlatan Ibrahimovic - FWD",
+       "out": "306 - Jamie Vardy - FWD"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 19": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "130",
+       "player": "Christian_Eriksen",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "400",
+       "player": "Laurent_Koscielny",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "539",
+       "player": "Patrick_van Aanholt",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "683",
+       "player": "Zlatan_Ibrahimovic",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID"
+      },
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD"
+      },
+      {
+       "id": "130",
+       "player": "Christian_Eriksen",
+       "position": "MID"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID"
+      },
+      {
+       "id": "400",
+       "player": "Laurent_Koscielny",
+       "position": "DEF"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "50 - Andre Gray - FWD",
+       "out": "225 - Fernando Llorente - FWD"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 20": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "130",
+       "player": "Christian_Eriksen",
+       "position": "MID",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "400",
+       "player": "Laurent_Koscielny",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "404",
+       "player": "Leighton_Baines",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "539",
+       "player": "Patrick_van Aanholt",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "683",
+       "player": "Zlatan_Ibrahimovic",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID"
+      },
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD"
+      },
+      {
+       "id": "130",
+       "player": "Christian_Eriksen",
+       "position": "MID"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID"
+      },
+      {
+       "id": "400",
+       "player": "Laurent_Koscielny",
+       "position": "DEF"
+      },
+      {
+       "id": "404",
+       "player": "Leighton_Baines",
+       "position": "DEF"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF"
+      },
+      {
+       "id": "539",
+       "player": "Patrick_van Aanholt",
+       "position": "DEF"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF"
+      },
+      {
+       "id": "683",
+       "player": "Zlatan_Ibrahimovic",
+       "position": "FWD"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "404 - Leighton Baines - DEF",
+       "out": "240 - Gary Cahill - DEF"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 21": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "130",
+       "player": "Christian_Eriksen",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "400",
+       "player": "Laurent_Koscielny",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "404",
+       "player": "Leighton_Baines",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "683",
+       "player": "Zlatan_Ibrahimovic",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID"
+      },
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD"
+      },
+      {
+       "id": "130",
+       "player": "Christian_Eriksen",
+       "position": "MID"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF"
+      },
+      {
+       "id": "683",
+       "player": "Zlatan_Ibrahimovic",
+       "position": "FWD"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "441 - Marcos Alonso - DEF",
+       "out": "539 - Patrick van Aanholt - DEF"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 22": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "400",
+       "player": "Laurent_Koscielny",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "404",
+       "player": "Leighton_Baines",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "574",
+       "player": "Roberto_Firmino",
+       "position": "MID",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "683",
+       "player": "Zlatan_Ibrahimovic",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID"
+      },
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID"
+      },
+      {
+       "id": "400",
+       "player": "Laurent_Koscielny",
+       "position": "DEF"
+      },
+      {
+       "id": "404",
+       "player": "Leighton_Baines",
+       "position": "DEF"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID"
+      },
+      {
+       "id": "574",
+       "player": "Roberto_Firmino",
+       "position": "MID"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "574 - Roberto Firmino - MID",
+       "out": "130 - Christian Eriksen - MID"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 23": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "404",
+       "player": "Leighton_Baines",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "574",
+       "player": "Roberto_Firmino",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "600",
+       "player": "Scott_Dann",
+       "position": "DEF",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "683",
+       "player": "Zlatan_Ibrahimovic",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID"
+      },
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID"
+      },
+      {
+       "id": "404",
+       "player": "Leighton_Baines",
+       "position": "DEF"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID"
+      },
+      {
+       "id": "574",
+       "player": "Roberto_Firmino",
+       "position": "MID"
+      },
+      {
+       "id": "600",
+       "player": "Scott_Dann",
+       "position": "DEF"
+      },
+      {
+       "id": "683",
+       "player": "Zlatan_Ibrahimovic",
+       "position": "FWD"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "600 - Scott Dann - DEF",
+       "out": "400 - Laurent Koscielny - DEF"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 24": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "404",
+       "player": "Leighton_Baines",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "574",
+       "player": "Roberto_Firmino",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "600",
+       "player": "Scott_Dann",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID"
+      },
+      {
+       "id": "404",
+       "player": "Leighton_Baines",
+       "position": "DEF"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID"
+      },
+      {
+       "id": "574",
+       "player": "Roberto_Firmino",
+       "position": "MID"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "576 - Romelu Lukaku - FWD",
+       "out": "683 - Zlatan Ibrahimovic - FWD"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 25": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "404",
+       "player": "Leighton_Baines",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "574",
+       "player": "Roberto_Firmino",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "583",
+       "player": "Ryan_Bertrand",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "587",
+       "player": "Sadio_Man\u00e9",
+       "position": "MID",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "600",
+       "player": "Scott_Dann",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID"
+      },
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID"
+      },
+      {
+       "id": "404",
+       "player": "Leighton_Baines",
+       "position": "DEF"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD"
+      },
+      {
+       "id": "574",
+       "player": "Roberto_Firmino",
+       "position": "MID"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD"
+      },
+      {
+       "id": "587",
+       "player": "Sadio_Man\u00e9",
+       "position": "MID"
+      },
+      {
+       "id": "600",
+       "player": "Scott_Dann",
+       "position": "DEF"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "587 - Sadio Man\u00e9 - MID",
+       "out": "371 - Joshua King - MID"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 26": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "404",
+       "player": "Leighton_Baines",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "539",
+       "player": "Patrick_van Aanholt",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "574",
+       "player": "Roberto_Firmino",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "587",
+       "player": "Sadio_Man\u00e9",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "600",
+       "player": "Scott_Dann",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID"
+      },
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID"
+      },
+      {
+       "id": "404",
+       "player": "Leighton_Baines",
+       "position": "DEF"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF"
+      },
+      {
+       "id": "539",
+       "player": "Patrick_van Aanholt",
+       "position": "DEF"
+      },
+      {
+       "id": "557",
+       "player": "Raheem_Sterling",
+       "position": "MID"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD"
+      },
+      {
+       "id": "587",
+       "player": "Sadio_Man\u00e9",
+       "position": "MID"
+      },
+      {
+       "id": "600",
+       "player": "Scott_Dann",
+       "position": "DEF"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "539 - Patrick van Aanholt - DEF",
+       "out": "583 - Ryan Bertrand - DEF"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 27": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "200",
+       "player": "Dusan_Tadic",
+       "position": "MID",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "404",
+       "player": "Leighton_Baines",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "539",
+       "player": "Patrick_van Aanholt",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "574",
+       "player": "Roberto_Firmino",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "587",
+       "player": "Sadio_Man\u00e9",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "600",
+       "player": "Scott_Dann",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID"
+      },
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD"
+      },
+      {
+       "id": "200",
+       "player": "Dusan_Tadic",
+       "position": "MID"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "281",
+       "player": "Ilkay_G\u00fcndogan",
+       "position": "MID"
+      },
+      {
+       "id": "404",
+       "player": "Leighton_Baines",
+       "position": "DEF"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF"
+      },
+      {
+       "id": "539",
+       "player": "Patrick_van Aanholt",
+       "position": "DEF"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD"
+      },
+      {
+       "id": "600",
+       "player": "Scott_Dann",
+       "position": "DEF"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "200 - Dusan Tadic - MID",
+       "out": "557 - Raheem Sterling - MID"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 28": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "200",
+       "player": "Dusan_Tadic",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "404",
+       "player": "Leighton_Baines",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "539",
+       "player": "Patrick_van Aanholt",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "574",
+       "player": "Roberto_Firmino",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "587",
+       "player": "Sadio_Man\u00e9",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "600",
+       "player": "Scott_Dann",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID"
+      },
+      {
+       "id": "404",
+       "player": "Leighton_Baines",
+       "position": "DEF"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD"
+      },
+      {
+       "id": "574",
+       "player": "Roberto_Firmino",
+       "position": "MID"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD"
+      },
+      {
+       "id": "587",
+       "player": "Sadio_Man\u00e9",
+       "position": "MID"
+      },
+      {
+       "id": "600",
+       "player": "Scott_Dann",
+       "position": "DEF"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "371 - Joshua King - MID",
+       "out": "281 - Ilkay G\u00fcndogan - MID"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 29": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "143",
+       "player": "Craig_Dawson",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "200",
+       "player": "Dusan_Tadic",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "404",
+       "player": "Leighton_Baines",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "539",
+       "player": "Patrick_van Aanholt",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "574",
+       "player": "Roberto_Firmino",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "587",
+       "player": "Sadio_Man\u00e9",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID"
+      },
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD"
+      },
+      {
+       "id": "143",
+       "player": "Craig_Dawson",
+       "position": "DEF"
+      },
+      {
+       "id": "200",
+       "player": "Dusan_Tadic",
+       "position": "MID"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "404",
+       "player": "Leighton_Baines",
+       "position": "DEF"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD"
+      },
+      {
+       "id": "574",
+       "player": "Roberto_Firmino",
+       "position": "MID"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "143 - Craig Dawson - DEF",
+       "out": "600 - Scott Dann - DEF"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 30": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "143",
+       "player": "Craig_Dawson",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "200",
+       "player": "Dusan_Tadic",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "488",
+       "player": "Miguel_Britos",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "539",
+       "player": "Patrick_van Aanholt",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "574",
+       "player": "Roberto_Firmino",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "587",
+       "player": "Sadio_Man\u00e9",
+       "position": "MID",
+       "Captain": "1",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID"
+      },
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD"
+      },
+      {
+       "id": "143",
+       "player": "Craig_Dawson",
+       "position": "DEF"
+      },
+      {
+       "id": "200",
+       "player": "Dusan_Tadic",
+       "position": "MID"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "488",
+       "player": "Miguel_Britos",
+       "position": "DEF"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF"
+      },
+      {
+       "id": "539",
+       "player": "Patrick_van Aanholt",
+       "position": "DEF"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD"
+      },
+      {
+       "id": "587",
+       "player": "Sadio_Man\u00e9",
+       "position": "MID"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "488 - Miguel Britos - DEF",
+       "out": "404 - Leighton Baines - DEF"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 31": [
+    {
+     "Main Roster": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "143",
+       "player": "Craig_Dawson",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "200",
+       "player": "Dusan_Tadic",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "201",
+       "player": "Eden_Hazard",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "488",
+       "player": "Miguel_Britos",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "539",
+       "player": "Patrick_van Aanholt",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "574",
+       "player": "Roberto_Firmino",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "40",
+       "player": "Alexis_S\u00e1nchez",
+       "position": "MID"
+      },
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD"
+      },
+      {
+       "id": "143",
+       "player": "Craig_Dawson",
+       "position": "DEF"
+      },
+      {
+       "id": "201",
+       "player": "Eden_Hazard",
+       "position": "MID"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF"
+      },
+      {
+       "id": "488",
+       "player": "Miguel_Britos",
+       "position": "DEF"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF"
+      },
+      {
+       "id": "574",
+       "player": "Roberto_Firmino",
+       "position": "MID"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "201 - Eden Hazard - MID",
+       "out": "587 - Sadio Man\u00e9 - MID"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 32": [
+    {
+     "Main Roster": [
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "143",
+       "player": "Craig_Dawson",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "200",
+       "player": "Dusan_Tadic",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "201",
+       "player": "Eden_Hazard",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "274",
+       "player": "Heung-Min_Son",
+       "position": "MID",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "488",
+       "player": "Miguel_Britos",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "539",
+       "player": "Patrick_van Aanholt",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "574",
+       "player": "Roberto_Firmino",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "1"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD"
+      },
+      {
+       "id": "143",
+       "player": "Craig_Dawson",
+       "position": "DEF"
+      },
+      {
+       "id": "200",
+       "player": "Dusan_Tadic",
+       "position": "MID"
+      },
+      {
+       "id": "274",
+       "player": "Heung-Min_Son",
+       "position": "MID"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF"
+      },
+      {
+       "id": "488",
+       "player": "Miguel_Britos",
+       "position": "DEF"
+      },
+      {
+       "id": "539",
+       "player": "Patrick_van Aanholt",
+       "position": "DEF"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "274 - Heung-Min Son - MID",
+       "out": "40 - Alexis S\u00e1nchez - MID"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 33": [
+    {
+     "Main Roster": [
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "200",
+       "player": "Dusan_Tadic",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "201",
+       "player": "Eden_Hazard",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "274",
+       "player": "Heung-Min_Son",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "488",
+       "player": "Miguel_Britos",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "539",
+       "player": "Patrick_van Aanholt",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "574",
+       "player": "Roberto_Firmino",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "576",
+       "player": "Romelu_Lukaku",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "661",
+       "player": "Vincent_Kompany",
+       "position": "DEF",
+       "Captain": "1",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD"
+      },
+      {
+       "id": "200",
+       "player": "Dusan_Tadic",
+       "position": "MID"
+      },
+      {
+       "id": "274",
+       "player": "Heung-Min_Son",
+       "position": "MID"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF"
+      },
+      {
+       "id": "488",
+       "player": "Miguel_Britos",
+       "position": "DEF"
+      },
+      {
+       "id": "539",
+       "player": "Patrick_van Aanholt",
+       "position": "DEF"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD"
+      },
+      {
+       "id": "574",
+       "player": "Roberto_Firmino",
+       "position": "MID"
+      },
+      {
+       "id": "661",
+       "player": "Vincent_Kompany",
+       "position": "DEF"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "661 - Vincent Kompany - DEF",
+       "out": "143 - Craig Dawson - DEF"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 34": [
+    {
+     "Main Roster": [
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "187",
+       "player": "Diego_Da Silva Costa",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "200",
+       "player": "Dusan_Tadic",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "201",
+       "player": "Eden_Hazard",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "274",
+       "player": "Heung-Min_Son",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "488",
+       "player": "Miguel_Britos",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "539",
+       "player": "Patrick_van Aanholt",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "574",
+       "player": "Roberto_Firmino",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "661",
+       "player": "Vincent_Kompany",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "187",
+       "player": "Diego_Da Silva Costa",
+       "position": "FWD"
+      },
+      {
+       "id": "200",
+       "player": "Dusan_Tadic",
+       "position": "MID"
+      },
+      {
+       "id": "201",
+       "player": "Eden_Hazard",
+       "position": "MID"
+      },
+      {
+       "id": "274",
+       "player": "Heung-Min_Son",
+       "position": "MID"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF"
+      },
+      {
+       "id": "488",
+       "player": "Miguel_Britos",
+       "position": "DEF"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF"
+      },
+      {
+       "id": "539",
+       "player": "Patrick_van Aanholt",
+       "position": "DEF"
+      },
+      {
+       "id": "661",
+       "player": "Vincent_Kompany",
+       "position": "DEF"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "187 - Diego Da Silva Costa - FWD",
+       "out": "576 - Romelu Lukaku - FWD"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 35": [
+    {
+     "Main Roster": [
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "187",
+       "player": "Diego_Da Silva Costa",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "200",
+       "player": "Dusan_Tadic",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "201",
+       "player": "Eden_Hazard",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "274",
+       "player": "Heung-Min_Son",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "488",
+       "player": "Miguel_Britos",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "539",
+       "player": "Patrick_van Aanholt",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "574",
+       "player": "Roberto_Firmino",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD"
+      },
+      {
+       "id": "187",
+       "player": "Diego_Da Silva Costa",
+       "position": "FWD"
+      },
+      {
+       "id": "201",
+       "player": "Eden_Hazard",
+       "position": "MID"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF"
+      },
+      {
+       "id": "274",
+       "player": "Heung-Min_Son",
+       "position": "MID"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF"
+      },
+      {
+       "id": "488",
+       "player": "Miguel_Britos",
+       "position": "DEF"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "240 - Gary Cahill - DEF",
+       "out": "661 - Vincent Kompany - DEF"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 36": [
+    {
+     "Main Roster": [
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "187",
+       "player": "Diego_Da Silva Costa",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "200",
+       "player": "Dusan_Tadic",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "201",
+       "player": "Eden_Hazard",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "274",
+       "player": "Heung-Min_Son",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "387",
+       "player": "Kevin_De Bruyne",
+       "position": "MID",
+       "Captain": "1",
+       "Vice captain": "0"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "488",
+       "player": "Miguel_Britos",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "539",
+       "player": "Patrick_van Aanholt",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD"
+      },
+      {
+       "id": "187",
+       "player": "Diego_Da Silva Costa",
+       "position": "FWD"
+      },
+      {
+       "id": "201",
+       "player": "Eden_Hazard",
+       "position": "MID"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF"
+      },
+      {
+       "id": "274",
+       "player": "Heung-Min_Son",
+       "position": "MID"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "387",
+       "player": "Kevin_De Bruyne",
+       "position": "MID"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF"
+      },
+      {
+       "id": "488",
+       "player": "Miguel_Britos",
+       "position": "DEF"
+      },
+      {
+       "id": "539",
+       "player": "Patrick_van Aanholt",
+       "position": "DEF"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "387 - Kevin De Bruyne - MID",
+       "out": "574 - Roberto Firmino - MID"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 37": [
+    {
+     "Main Roster": [
+      {
+       "id": "50",
+       "player": "Andre_Gray",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "187",
+       "player": "Diego_Da Silva Costa",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "200",
+       "player": "Dusan_Tadic",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "274",
+       "player": "Heung-Min_Son",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "1"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "332",
+       "player": "Joel_Robles",
+       "position": "GK",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "387",
+       "player": "Kevin_De Bruyne",
+       "position": "MID",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "488",
+       "player": "Miguel_Britos",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "507",
+       "player": "Nathan_Ak\u00e9",
+       "position": "DEF",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD",
+       "Captain": "0",
+       "Vice captain": "0"
+      },
+      {
+       "id": "554",
+       "player": "Philippe_Coutinho",
+       "position": "MID",
+       "Captain": "1",
+       "Vice captain": "0"
+      }
+     ]
+    },
+    {
+     "Players chosen": [
+      {
+       "id": "200",
+       "player": "Dusan_Tadic",
+       "position": "MID"
+      },
+      {
+       "id": "240",
+       "player": "Gary_Cahill",
+       "position": "DEF"
+      },
+      {
+       "id": "274",
+       "player": "Heung-Min_Son",
+       "position": "MID"
+      },
+      {
+       "id": "277",
+       "player": "Hugo_Lloris",
+       "position": "GK"
+      },
+      {
+       "id": "371",
+       "player": "Joshua_King",
+       "position": "MID"
+      },
+      {
+       "id": "387",
+       "player": "Kevin_De Bruyne",
+       "position": "MID"
+      },
+      {
+       "id": "441",
+       "player": "Marcos_Alonso",
+       "position": "DEF"
+      },
+      {
+       "id": "488",
+       "player": "Miguel_Britos",
+       "position": "DEF"
+      },
+      {
+       "id": "539",
+       "player": "Patrick_van Aanholt",
+       "position": "DEF"
+      },
+      {
+       "id": "548",
+       "player": "Peter_Crouch",
+       "position": "FWD"
+      },
+      {
+       "id": "554",
+       "player": "Philippe_Coutinho",
+       "position": "MID"
+      }
+     ]
+    },
+    {
+     "Transfers": [
+      {
+       "in": "554 - Philippe Coutinho - MID",
+       "out": "539 - Patrick van Aanholt - DEF"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Week 38": {
+    "Total points": "1620"
+   }
+  }
+ ]
+}
