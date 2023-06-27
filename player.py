@@ -1,8 +1,3 @@
-# Class Player này hiện đang có 18 biến, tương ứng với 18 cột trong bảng cleaned_player.
-# Các biến đều có hàm setter, getter.
-# Lưu ý hàm init hiện đang nhận 18 giá trị đầu vào để có thể nhận thông tin 
-# từ bảng cleaned_player kia, không nên sửa đầu vào hàm init nếu không sẽ lỗi.
-
 class Player:
     def __init__(self, id, first_name, second_name, goals_scored, assists, total_points, 
                  minutes, goals_conceded, creativity, influence, threat, bonus, bps, 
