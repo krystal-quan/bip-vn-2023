@@ -2,11 +2,15 @@ import compare
 import pandas as pd
 import stored_old_data as st
 
-# Hàm này sẽ cập nhật giá trị mới nhất của gameweek vào trong player_list, đồng thời tạo 1 bản copy vào trong
-# mảng 2 chiều players trong stored_old_data.py, 1 chiều là số cầu thủ = 683, 1 chiều là số tuần = 38 (fix cứng)
-# các cầu thủ không đá sẽ bị reset các chỉ số chính về 0 (trừ giá tiền và vị trí)
-# phải nhập đúng số week (tuần n thì nhập là n) để ghi file được chính xác
-# file_name là tên của file gameweek có thể là 'gw1.csv' hay 'gws\gw1.csv' tùy vào vị trí của file gameweek
+'''
+Input:
+    file_name is name of file gameweek
+    player_list is a list to manage data of player
+    week is order of gameweek
+Output:
+    counter is variable to check the number of player play in this week
+To do: Update new data of player in new week.
+'''
 def set_game_week(file_name, player_list, week):
     game_week = pd.read_csv(file_name, encoding='ISO-8859-1')
     diff = len(player_list) - game_week.shape[0]
@@ -30,8 +34,6 @@ def set_game_week(file_name, player_list, week):
             player_list[pos].set_red_cards(row['red_cards'])
             player_list[pos].set_yellow_cards(row['yellow_cards'])
             player_list[pos].set_selected_by_percent(row['selected'])
-            # player_list[pos].set_value(row['value'])
-            # Vì đang xét giá trị không đổi nên không đổi value, muốn đổi thì tùy
             counter += 1
         else:
             pos = compare.continuous_search(player_list, row['name'], 0, len(player_list))
@@ -56,6 +58,13 @@ def set_game_week(file_name, player_list, week):
                 print ('Failed to find')
     return counter
 
+'''
+Input:
+    player_list is a list to manage data of player
+    week is order of gameweek
+Output: None
+To do: Store old data of player to reuse.
+'''
 def stored_player(player_list, week):
     for i in range(len(player_list)):
         st.set_player_data(player_list[i], i, week - 1)
