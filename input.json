@@ -1,0 +1,66 @@
+{
+    "Main Roster": 
+    [
+        {
+            "player": "Aaron_Lennon",
+            "position": "MID"
+        },
+        {
+            "player": "Bamidele_Alli",
+            "position": "MID"
+        },
+        {
+            "player": "Charlie_Daniels",
+            "position": "DEF"
+        },
+        {
+            "player": "Christian_Eriksen",
+            "position": "MID"
+        },
+        {
+            "player": "Fernando_Llorente",
+            "position": "FWD"
+        },
+        {
+            "player": "Gary_Cahill",
+            "position": "DEF"
+        },
+        {
+            "player": "Heung-Min_Son",
+            "position": "MID"
+        },
+        {
+            "player": "Hugo_Lloris",
+            "position": "GK"
+        },
+        {
+            "player": "Joel_Robles",
+            "position": "GK"
+        },
+        {
+            "player": "Joshua_King",
+            "position": "MID"
+        },
+        {
+            "player": "Marcos_Alonso",
+            "position": "DEF"
+        },
+        {
+            "player": "Peter_Crouch",
+            "position": "FWD"
+        },
+        {
+            "player": "Ryan_Bertrand",
+            "position": "DEF"
+        },
+        {
+            "player": "Sam_Vokes",
+            "position": "FWD"
+        },
+        {
+            "player": "Seamus_Coleman",
+            "position": "DEF"
+        }
+    ],
+    "transfer" : 2
+}
