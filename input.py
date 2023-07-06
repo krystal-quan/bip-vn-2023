@@ -1,4 +1,4 @@
-"""
+
 import json
 import compare
 import parameter as prm
@@ -8,7 +8,7 @@ prm.playerList = upd.set_player_list()
 
 # transfer: number transfer left in file input
 global transfer
-"""
+
 """
 Input: .json file contain data of main roster and transfer, file must be correct format.
 Output: player_list is a list of dictionary, each dictionary has name and position of 15 players.
@@ -74,8 +74,8 @@ def getInput():
         print(f"Player: {player['name']}, Position: {player['position']}")
         print(compare.continuous_search(prm.playerList,player['name'], 0, len(prm.playerList)) + 1)
     """
-   # prm.transferLeft = transferLeft
+    prm.transferLeft = transferLeft
     #print(prm.transferLeft)
-   # prm.chosenPlayerList.append(cht.Chosen_Team(captain_id, vice_id, player_id, mainPlayer_id, prm.transferLeft, prm.point, 0, 0))
+    prm.chosenPlayerList.append(cht.Chosen_Team(captain_id, vice_id, player_id, mainPlayer_id, prm.transferLeft, prm.point, 0, 0))
     #print(prm.chosenPlayerList[0].printPlayerList())
 getInput()
