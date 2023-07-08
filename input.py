@@ -22,6 +22,7 @@ def extractJsonFileToPython(filename):
     main_roster = data['Main Roster']
     transfer = data['transfer']
     prm.gameWeek = data['Week']
+    prm.startWeek = data['Week']
     main_players = data['Players chosen']
 
     # Store main_roster
@@ -66,16 +67,16 @@ def extractJsonFileToPython(filename):
 def getInput():
     filename = 'input_full.json'
     captain_id, vice_id, player_id, mainPlayer_id, transferLeft = extractJsonFileToPython(filename)
-    print(player_id)
-    print(mainPlayer_id)
-    print(transferLeft)
+    #print(player_id)
+    #print(mainPlayer_id)
+    #print(transferLeft)
     """
     for player in players:
         print(f"Player: {player['name']}, Position: {player['position']}")
         print(compare.continuous_search(prm.playerList,player['name'], 0, len(prm.playerList)) + 1)
     """
-    prm.transferLeft = transferLeft
+   # prm.transferLeft = transferLeft
     #print(prm.transferLeft)
     prm.chosenPlayerList.append(cht.Chosen_Team(captain_id, vice_id, player_id, mainPlayer_id, prm.transferLeft, prm.point, 0, 0))
     #print(prm.chosenPlayerList[0].printPlayerList())
-getInput()
+
