@@ -3,6 +3,7 @@ import parameter as prm
 import chosen_team as cht
 import stored_old_data as sod
 import cplex
+import input
 
 
 """
@@ -20,7 +21,11 @@ CS: list costs of players (fixed)
 EP: list Expected Points for each player, updated every GW
 IFL: list of Influence index for each player, updated every GW
 """
+input.getInput()
 OT = [0 for _ in range(prm.TOTAL_PLAYERS)]
+for i in prm.playerInput :
+    OT[i-1] = 1 
+
 CS = [0 for _ in range(prm.TOTAL_PLAYERS)]
 EP = [0 for _ in range(prm.TOTAL_PLAYERS)]
 IFL = [0 for _ in range(prm.TOTAL_PLAYERS)]
@@ -195,7 +200,7 @@ def chooseTeam(gameWeek):
        
     elif (gameWeek >= 1):
         #Substitution Constraints
-        #m.add_constraint(m.sum(m.abs(x_p[i] - OT[i]) for i in range(prm.TOTAL_PLAYERS)) <= prm.transferLeft)
+        m.add_constraint(m.sum(m.abs(x_p[i] - OT[i]) for i in range(prm.TOTAL_PLAYERS)) <= prm.transferLeft)
         #z = m.sum(x_p[i] * (EP[i] * (1 + cap_p[i] + vice_p[i]) + IFL[i] * 0.04) for i in range(prm.TOTAL_PLAYERS))
         z = m.sum(x_p[i] * EP[i] * (1 + cap_p[i] + vice_p[i]) for i in range(prm.TOTAL_PLAYERS))
         m.maximize(z)
@@ -233,12 +238,7 @@ def chooseTeam(gameWeek):
             mainPlayer_id.append(i)
         if vice_p[i].solution_value > chosenThreshold:
             vice_id = i
-        #if gameWeek == 2 :
-        #    print(f"cap_p[147] : {cap_p[147].solution_value}")
-        #if gameWeek == 3 :
-        #    print(f"cap_p[39] : {cap_p[39].solution_value}")
-        #    print(f"vice_p[39] : {vice_p[39].solution_value}")
-   
+       
     prm.transferLeft = prm.transferLeft - len(out_id)
     prm.chosenPlayerList.append(cht.Chosen_Team(captain_id, vice_id, player_id, mainPlayer_id, prm.transferLeft, prm.point, out_id, in_id))
         
