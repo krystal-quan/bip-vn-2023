@@ -1,8 +1,9 @@
+
 class Player:
     def __init__(self, id, first_name, second_name, goals_scored, assists, total_points, 
                  minutes, goals_conceded, creativity, influence, threat, bonus, bps, 
                  ict_index, clean_sheets, red_cards, yellow_cards, selected_by_percent, 
-                 value, position):
+                 value, position, penalties_saved):
         self._id = id
         self._first_name = first_name
         self._second_name = second_name
@@ -23,6 +24,7 @@ class Player:
         self._selected_by_percent = selected_by_percent
         self._value = value
         self._position = position
+        self._penalties_saved = penalties_saved
 
     def get_id(self):
         return self._id
@@ -65,7 +67,7 @@ class Player:
 
     def get_total_points(self):
         return self._total_points
-
+    
     def set_total_points(self, total_points):
         self._total_points = total_points
 
@@ -147,11 +149,18 @@ class Player:
     def set_value(self, value):
         self._value = value
 
+    def get_penalties_saved(self) :
+        return self._penalties_saved
+    
+    def set_penalties_saved(self, penalties_saved):
+        self._penalties_saved = penalties_saved
+    
     def print_all(self):
         return f"{str(self._id)}  {str(self._first_name)} {str(self._second_name)} {str(self._position)} {str(self._goals_scored)} {str(self._assists)} {str(self._total_points)} {str(self._minutes)} {str(self._goals_conceded)} {str(self._creativity)} {str(self._influence)} {str(self._threat)} {str(self._bonus)} {str(self._bps)} {str(self._ict_index)} {str(self._clean_sheets)} {str(self._red_cards)} {str(self._yellow_cards)} {str(self._selected_by_percent)} {str(self._value)}"
     
     def getPlayerInfo(self):
         return f"{self._id} - {self._first_name} {self._second_name} - {self._position}"
+    
 
     def reset(self):
         self._goals_scored = -1
@@ -169,3 +178,5 @@ class Player:
         self._red_cards = -1
         self._yellow_cards = -1
         self._selected_by_percent = -1
+        self._penalties_saved = -1
+
