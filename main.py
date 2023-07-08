@@ -15,6 +15,8 @@ if __name__ == "__main__":
     
     import get_gw as gg
     input.getInput()
+    
+
     import CPLEX_Solution as CS
     import processing as prc
     #import stored_old_data as sod
@@ -29,14 +31,13 @@ if __name__ == "__main__":
             gg.set_game_week(f"gws\gw{prm.gameWeek-1}.csv", prm.playerList, prm.gameWeek)
             #print(prm.gameWeek)
         #if (prm.gameWeek >= 6 and prm.gameWeek < 38):
-            CS.updateValue(prm.gameWeek) # Update expected point for optimization
+            CS.updateValue(prm.gameWeek-1) # Update expected point for optimization
             #print(f"main.py 33: {prm.transferLeft}")
-            CS.chooseTeam(prm.gameWeek)  
-            prc.completeWeek(prm.gameWeek)
+            CS.chooseTeam(prm.gameWeek-1)  
+            prc.completeWeek(prm.gameWeek-1)
         # pof.updateFile(prm.gameWeek)
         if (prm.gameWeek >= prm.startWeek + 1):
             pof.executeFile(prm.gameWeek)
         prm.gameWeek += 1
     # pof.close_file()
     pof.close_json_file()
-        
