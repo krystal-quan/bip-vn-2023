@@ -62,5 +62,6 @@
             "position": "DEF"
         }
     ],
-    "transfer" : 2
+    "transfer" : 2,
+    "week" : 5
 }

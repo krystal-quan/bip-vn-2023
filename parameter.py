@@ -37,5 +37,7 @@ gameWeekRoster = [] #List of players chosen in the starting line-up.
 gameWeek = 0 #Current gameWeek.
 transferLeft = 0 #Numbers of tokens left
 
-
+gameWeekInput = 0 #Week input
+gameWeekRosterInput = [] #Players chosen at input
+transferLeftInput = 0 #Numbers of tokens left at input
 
