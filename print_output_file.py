@@ -28,34 +28,34 @@ def updateFile(gameWeek):
         return
         
     f.write(f"Game Week: {gameWeek}" + "\nPlayers chosen:\n")
-    for id in prm.chosenPlayerList[gameWeek].chosenPlayerList:
+    for id in prm.chosenPlayerList[gameWeek- prm.startWeek].chosenPlayerList:
         temp = prm.playerList[id].getPlayerInfo()
         f.write("\t" + temp + "\n")
     f.write("\n")
     f.write("\nMain Roster:\n")
-    for id in prm.chosenPlayerList[gameWeek].mainTeam:
+    for id in prm.chosenPlayerList[gameWeek- prm.startWeek].mainTeam:
         temp = prm.playerList[id].getPlayerInfo()
         f.write("\t" + temp)
-        if (id == prm.chosenPlayerList[gameWeek].captain):
+        if (id == prm.chosenPlayerList[gameWeek- prm.startWeek].captain):
             f.write(" (CAPTAIN)")
-        elif (id == prm.chosenPlayerList[gameWeek].vice_captain):
+        elif (id == prm.chosenPlayerList[gameWeek- prm.startWeek].vice_captain):
             f.write(" (VICE_CAPTAIN)")
         f.write("\n")
     f.write("\n")
         
     if (gameWeek >= 1):
         f.write("Players out: \n")
-        for id in prm.chosenPlayerList[gameWeek].out_id:
+        for id in prm.chosenPlayerList[gameWeek- prm.startWeek].out_id:
             temp = prm.playerList[id].getPlayerInfo()
             f.write("\t" + temp + "\n")
         f.write("Players in:\n")
-        for id in prm.chosenPlayerList[gameWeek].in_id:
+        for id in prm.chosenPlayerList[gameWeek- prm.startWeek].in_id:
             temp = prm.playerList[id].getPlayerInfo()
             f.write("\t" + temp + "\n")
         f.write("\n")
-        temp  = "Transfer left: " + (str)(prm.chosenPlayerList[gameWeek].tf_left) + "\n"
+        temp  = "Transfer left: " + (str)(prm.chosenPlayerList[gameWeek- prm.startWeek].tf_left) + "\n"
         f.write(temp)
-        temp = "Total point: " + (str)(prm.chosenPlayerList[gameWeek].point) + "\n"
+        temp = "Total point: " + (str)(prm.chosenPlayerList[gameWeek- prm.startWeek].point) + "\n"
         f.write(temp)
     f.write("------------------------------------------\n")
           
@@ -85,19 +85,19 @@ def executeFile(gameWeek):
     
     lWeek = []
     lRoster = []
-    for id in prm.chosenPlayerList[gameWeek].chosenPlayerList:
+    for id in prm.chosenPlayerList[gameWeek - prm.startWeek].chosenPlayerList:
         temp = prm.playerList[id]
         dic1 = {"id" : f"{temp.get_id()}", 
                 "player" : f"{temp.get_full_name()}", 
                 "position" : f"{temp.get_position()}",
-                "Captain" : f"{1 if (id == prm.chosenPlayerList[gameWeek].captain) else 0}",
-                "Vice captain" : f"{1 if (id == prm.chosenPlayerList[gameWeek].vice_captain) else 0}"}
+                "Captain" : f"{1 if (id == prm.chosenPlayerList[gameWeek - prm.startWeek].captain) else 0}",
+                "Vice captain" : f"{1 if (id == prm.chosenPlayerList[gameWeek - prm.startWeek].vice_captain) else 0}"}
         lRoster.append(dic1)
     dRoster = {'Main Roster' : lRoster}
     lWeek.append(dRoster)
 
     lChosen = []
-    for id in prm.chosenPlayerList[gameWeek].mainTeam:
+    for id in prm.chosenPlayerList[gameWeek - prm.startWeek].mainTeam:
         temp = prm.playerList[id]
         dic2 = {"id" : f"{temp.get_id()}", 
                 "player" : f"{temp.get_full_name()}", 
@@ -109,10 +109,10 @@ def executeFile(gameWeek):
     if (gameWeek >= 1):
         lTrans = []
         dic3 = {}
-        for id in prm.chosenPlayerList[gameWeek].in_id:
+        for id in prm.chosenPlayerList[gameWeek- prm.startWeek].in_id:
             temp = prm.playerList[id].getPlayerInfo()
             dic3['in'] = temp
-        for id in prm.chosenPlayerList[gameWeek].out_id:
+        for id in prm.chosenPlayerList[gameWeek- prm.startWeek].out_id:
             temp = prm.playerList[id].getPlayerInfo()
             dic3['out'] = temp
         lTrans.append(dic3)
