@@ -21,6 +21,8 @@ Ouput: None
 def completeWeek(gameWeek):
     tempPoint = 0
     cap_available = True
+    if gameWeek >= 1 :
+        gg.set_game_week(f"gws\gw{prm.gameWeek}.csv", prm.playerList, prm.gameWeek)
     cap_id = prm.chosenPlayerList[gameWeek - prm.startWeek].captain
     if prm.playerList[cap_id]._total_points != -1:
         cap_available = True
