@@ -82,7 +82,8 @@ def executeFile(gameWeek):
         json_object = json.dumps(dic3, indent=1)
         js.write(json_object)
         return 0
-    
+    if prm.startWeek == 0 :
+        gameWeek -= 1
     lWeek = []
     lRoster = []
     for id in prm.chosenPlayerList[gameWeek - prm.startWeek].chosenPlayerList:
