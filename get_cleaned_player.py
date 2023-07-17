@@ -1,6 +1,9 @@
-import csv 
+import contextlib
+import csv
 import json
 import time
+import pandas as pd
+import os
 
 def csv_to_json(csvFilePath, jsonFilePath):
     jsonArray = []
@@ -50,6 +53,23 @@ def csv_to_json(csvFilePath, jsonFilePath):
         jsonString = json.dumps(jsonArray, indent=4)
         jsonf.write(jsonString)
         
+def json_to_csv(jsonFilePath, csvFilePath):
+    with open(jsonFilePath, encoding='utf-8') as inputfile:
+        df = pd.read_json(inputfile)
+
+    df.to_csv(csvFilePath, encoding='utf-8', index=False)
+        
+def deleteFile(filePath):
+    with contextlib.suppress(OSError):
+        os.remove(filePath)
+        
+def get_cleaned_player(csvFilePath, csvDesPath):
+    csv_to_json(csvFilePath, 'data.json')
+    json_to_csv('data.json', csvDesPath)
+    deleteFile('data.json')
+    
 csvFilePath = r'2016-17\\players_raw.csv'
-jsonFilePath = r'data.json'
-csv_to_json(csvFilePath, jsonFilePath)
+csvDesPath = r'cleaned_players_new.csv'
+get_cleaned_player(csvFilePath, csvDesPath)
+
+#This file will be archived until we need to use that again
